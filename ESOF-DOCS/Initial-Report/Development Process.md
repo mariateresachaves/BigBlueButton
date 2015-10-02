@@ -2,7 +2,17 @@
 
 ## 2.1. Incremental Process
 
-BigBlueButton it's a project comprised of a continuously growing community where developers, users, educational institutions, and commercial companies are all collaborating towards a more sophisticated software, but always bearing in mind the quality. For that purpose, one of the main priorities taken in consideration when choosing the development process, was stability. 
+BigBlueButton it's a project comprised of a continuously growing community where developers, users, educational institutions, and commercial companies are all collaborating towards a more sophisticated software, but always bearing in mind the quality of the product. For that purpose, one of the main priorities taken in consideration when choosing the development process, was stability. To achieve the desired stability, BigBlueButton designed a development process based on multiple releases, wherein each step is built in a Waterfall cycle. To further guarantee the stability provided by the software, months are spent testing each release candidate before issueing a release. The motto of the BigBlueButton development process is *Release on quality, not dates*.
+
+The development process is structured in 6 steps:
+
+1. Planning
+2. Design
+3. Development
+4. Beta Testing
+5. Release Candidate
+6. General Release
+
 
 ## 2.2. Advantages and disadvantages
 
