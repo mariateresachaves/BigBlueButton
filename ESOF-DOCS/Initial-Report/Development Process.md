@@ -13,7 +13,7 @@ The development process is structured in 6 steps:
 5. Release Candidate
 6. General Release
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">]
+[<img src="http://agile-development-tools.com/wp-content/uploads/2010/10/iterative-development1.png">]
 
 ## 2.2. Advantages and disadvantages
 
