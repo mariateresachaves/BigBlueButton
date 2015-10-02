@@ -22,5 +22,7 @@ Como desvantagem, cada um destes ciclos poderá demorar várias semanas ou mesmo
 
 /****
 * Não sei que desvantagens hei de colocar, pus esta mas não sei se podemos considerar uma desvantagem, depois digam o que acham!
+* The incremental process it's not agile compared to other development processes often used in open source projects. After the plannig and designed of each release and the starting of the development stage, this process doesn't allow any changes to the previously agreed issues. It's necessary to wait to a future realese to add any new ideas to the project.
+* Usually the structural integrity of the code starts to crumble, and with each new addition the code can start to be obsolete.
 * 
 */
