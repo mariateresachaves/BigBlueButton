@@ -16,13 +16,7 @@ The development process is structured in 6 steps:
 
 ## 2.2. Advantages and disadvantages
 
-Uma das principais vantagens deste processo em comparação com o processo Waterfall, prende-se no facto de que, este último apenas passará a ter algum valor comercial assim que for finalizado todo o projeto, pois antes disso não existe ainda nada passível de ser apresentado. No processo incremental é possível ter um protótipo do projeto inicialmente, verificar o feedback transmitido e alguns possíveis ajustes a efetuar, e continuar a desenvolvê-lo baseado nesta experiência. Ao efetuar este processo de forma cíclica, garantimos que vai de acordo ao público-alvo do projeto, e que quando for lançada a versão final deste, estará efetivamente completo, e com todos os ajustes necessários já efetuados.
+One of the main advantages of this process in comparison with the Waterfall process, lies in the fact that, the last one will only have some commercial value when the project ends, as there is nothing pratical to be presented before this stage. The incremental process makes it possible to initially have a prototype of the project, verify the received feedback and some possible ajustments to be made, and continue to develop it based on this experience. By doing this process in a cyclical way, we guarantee that it goes according to project's target audience, and that when the final version is launched, it will be complete, with all the necessary ajustments already made.
 
-Como desvantagem, cada um destes ciclos poderá demorar várias semanas ou mesmo meses até ser completo, pois a fase de testes (principalmente) é bastante extensiva, de modo a assegurar a máxima qualidade do projeto. 
-
-/****
-* Não sei que desvantagens hei de colocar, pus esta mas não sei se podemos considerar uma desvantagem, depois digam o que acham!
-* The incremental process it's not agile compared to other development processes often used in open source projects. After the plannig and designed of each release and the starting of the development stage, this process doesn't allow any changes to the previously agreed issues. It's necessary to wait to a future realese to add any new ideas to the project.
-* Usually the structural integrity of the code starts to crumble, and with each new addition the code can start to be obsolete.
-* 
-*/
+The incremental process it's not agile compared to other development processes often used in open source projects. After the planning and designing of each release and the starting of the development stage, this process doesn't allow any changes to the previously agreed issues. It's necessary to wait to a future realese to add any new ideas to the project.
+Usually the structural integrity of the code starts to crumble, and with each new addition the code can start to be obsolete.
