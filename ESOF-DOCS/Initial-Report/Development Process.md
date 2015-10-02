@@ -1,6 +1,10 @@
 # 2. Development Process
 
-## 2.1. Advantages and disadvantages
+## 2.1. Incremental Process
+
+BigBlueButton it's a project comprised of a continuously growing community where developers, users, educational institutions, and commercial companies are all collaborating towards a more sophisticated software, but always bearing in mind the quality. For that purpose, one of the main priorities taken in consideration when choosing the development process, was stability. 
+
+## 2.2. Advantages and disadvantages
 
 Uma das principais vantagens deste processo em comparação com o processo Waterfall, prende-se no facto de que, este último apenas passará a ter algum valor comercial assim que for finalizado todo o projeto, pois antes disso não existe ainda nada passível de ser apresentado. No processo incremental é possível ter um protótipo do projeto inicialmente, verificar o feedback transmitido e alguns possíveis ajustes a efetuar, e continuar a desenvolvê-lo baseado nesta experiência. Ao efetuar este processo de forma cíclica, garantimos que vai de acordo ao público-alvo do projeto, e que quando for lançada a versão final deste, estará efetivamente completo, e com todos os ajustes necessários já efetuados.
 
