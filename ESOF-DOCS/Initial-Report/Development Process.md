@@ -13,6 +13,7 @@ The development process is structured in 6 steps:
 5. Release Candidate
 6. General Release
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">]
 
 ## 2.2. Advantages and disadvantages
 
