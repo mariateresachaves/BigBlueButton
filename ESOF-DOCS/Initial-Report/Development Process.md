@@ -15,6 +15,10 @@ The development process is structured in 6 steps:
 
 <img src="http://agile-development-tools.com/wp-content/uploads/2010/10/iterative-development1.png">
 
+During the **planning phase**, the committers decide the main features to be added in the new release by reviewing the BigBlueButton Road Map and all issues concerned with stability and usability. After outline the plan for the new release, the next phase starts, the **design** phase, when each feature is assigned a Issue Tracker. This allows the community to track the progress of the project and consists on a recorded of the defects and enhancements made during the new release.
+After laid out the plan and desing, the **development** phase can begin. During this time, the commiters hold usually bi-weekly meetings to discuss the development of the project. Each commiter works on a fork of the BigBlueButton Master provided by *Github*. When a new feature is ready to be commited ....Continuar------
+
+If in a period of two weeks, no new issue is reported for the last release candidate, the **general release** is announced by the committers.
 ## 2.2. Advantages and disadvantages
 
 One of the main advantages of this process in comparison with the Waterfall process, lies in the fact that, the last one will only have some commercial value when the project ends, as there is nothing pratical to be presented before this stage. The incremental process makes it possible to initially have a prototype of the project, verify the received feedback and some possible ajustments to be made, and continue to develop it based on this experience. By doing this process in a cyclical way, we guarantee that it goes according to project's target audience, and that when the final version is launched, it will be complete, with all the necessary ajustments already made.
