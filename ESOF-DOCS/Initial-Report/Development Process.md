@@ -15,7 +15,7 @@ The development process is structured in 6 steps:
 
 <img src="http://agile-development-tools.com/wp-content/uploads/2010/10/iterative-development1.png">
 
-During the **planning phase**, the committers decide the main features to be added in the new release by reviewing the BigBlueButton Road Map and all issues concerned with stability and usability. After outline the plan for the new release, the next phase starts, the **design** phase, when each feature is assigned a Issue Tracker. This allows the community to track the progress of the project and consists on a recorded of the defects and enhancements made during the new release.
+During the **planning** phase, the committers decide the main features to be added in the new release by reviewing the BigBlueButton Road Map and all issues concerned with stability and usability. After outline the plan for the new release, the next phase starts, the **design** phase, when each feature is assigned a Issue Tracker. This allows the community to track the progress of the project and consists on a recorded of the defects and enhancements made during the new release.
 After laid out the plan and desing, the **development** phase can begin. During this time, the commiters hold usually bi-weekly meetings to discuss the development of the project. Each commiter works on a fork of the BigBlueButton Master provided by *Github*. When a new feature is ready to be commited ....Continuar------
 
 If in a period of two weeks, no new issue is reported for the last release candidate, the **general release** is announced by the committers.
