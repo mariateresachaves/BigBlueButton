@@ -20,12 +20,12 @@ After studying all the provided documentation the positive aspects are:
   * Extensive testing period in-between releases.
   * Ensure maximum quality by following the stipulated goals and procedures.
   * Initially BBB hasn't created releases frequently enough so as to maximize development speed, automated builds are now created after each successful commit.
-  * The BigBlueButton has separate streams for each release (in order to balance the need for stability), which are used to teach online classes and therefore requires the system to be stable.
+  * BBB has separate streams for each release (in order to balance the need for stability), which are used to teach online classes and therefore requires the system to be stable.
   
 ## 3.3. Enhancements
 
 In order to get familiar with BigBlueButton platform we tried out the web application and we suggest the following:
 
-  * **Interface** - the user experience needs to be more appealing and consistent (e.g. display different clickable menus instead of display everything at the same time to the user)
+  * **Interface** - the user experience needs to be more appealing and consistent (e.g. display different clickable menus instead of displaying everything at the same time to the user)
   * **User Control System** - only the presenter may decide if any of the viewers may become presenters too or not; a moderator may determine a certain time that a student can be a presenter, pause the presentation, etc.
   
