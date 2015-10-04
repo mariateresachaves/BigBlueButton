@@ -15,6 +15,25 @@ BigBlueButton's **Road Map** is largely driven by its target market: on-line lea
   * **Scalability** - building a highly collaborative environment and avoid making restrictions to the application's usage.
   * **API** - providing a simple API for integration of 3rd party applications and open source projects.
 
+### 1.2.1. Core Features
+
+To improve the BBB's core the following enhancements must be implemented:
+ * **Audio**
+ * **Presentation**
+ * **Whiteboard**
+ * **Users**
+ * **Chat**
+ * **Desktop Sharing**
+ * **Polling**
+ * **Closed Captioning**
+ * **Breakout Rooms**
+ * **Shared Notes**
+ * **Synchronized playback of external media**
+ * ****
+ * ****
+ * ****
+
+
 ---Continuar----
 
 ## 1.3. Project Development
