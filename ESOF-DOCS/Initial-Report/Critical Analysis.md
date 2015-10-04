@@ -1,6 +1,8 @@
 #3. Critical Analysis
 BigBlueButton has a very active community. With 57 contributors on GitHub and a core development team of 6 people who is responsible for the core features development and overall quality of the project. The contributors of BBB are constantly helping and supporting each other and new developers. The forum and mailing list are constantly monitored and any new issue is quickly answered. Everyone who wants to contribute is welcome to the team and a very detailed documentation is provided to help the new developers. The BigBlueButton client is written in ActionScript and the server components are written in a combination of Java, Grails, and Scala.
 
+Through the analysis of the GitHub repository, we can see that BigBlueButton reached its peak in contributions in late 2014 and 2015, which proves the impact that the project is presently having on the community. We can also see the extensive testing period for this project demonstrated by the far away dates in-between releases. For example, the last version (0.9) got a release candidate in September 2014, but was only accepted at the very end of April 2015. This proves what the original authors wanted, by extensively testing their releases to assure maximum quality on their product. The same happens in all previous releases.
+
 Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for the 1.0 release were already implemented, with the last one being the reconnection of the lost users during a live conference. 
 
 // Isto deve-se ao branch ativo auto-recording. Deverá ser mencionado ou não?
