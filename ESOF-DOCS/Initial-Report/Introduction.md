@@ -18,19 +18,19 @@ BigBlueButton's **Road Map** is largely driven by its target market: on-line lea
 ### 1.2.1. Core Features
 
 To improve the BBB's core the following enhancements must be implemented:
- * **Audio** - 
- * **Presentation** - 
- * **Whiteboard** - 
- * **Users** - 
- * **Chat** - 
- * **Desktop Sharing** - 
- * **Polling** - 
- * **Closed Captioning** - 
- * **Breakout Rooms** - 
- * **Shared Notes** - 
- * **Synchronized playback of external media** - 
- * **Record and playback** - 
- * **Video** - 
+ * **Audio** - must have no perceptual voice delay.
+ * **Presentation** - support full-screen mode with optional notifications.
+ * **Whiteboard** - support ability to move/edit whiteboard objects, multi-user editing and keyboard input.
+ * **Users** - add emote icons to user list.
+ * **Chat** - support right-left languages.
+ * **Desktop Sharing** - automatically centre the screen sharing window.
+ * **Polling** - enable the presenter to easily do on-the-fly polls to increase student engagement.
+ * **Closed Captioning** - enable students with hearing disabilities to fully participate in a class.
+ * **Breakout Rooms** - add the ability for the moderator to send users to breakout rooms and have them return when done.
+ * **Shared Notes** - create a shared text area that enables users to collaborate together on a document.
+ * **Synchronized playback of external media** - enable the presenter to upload an audio/video file and control the playback for viewers.
+ * **Record and playback** - add a playback format that creates a single video from the session.
+ * **Video** - integrate WebRTC video for higher quality video.
 
 
 ---Continuar----
