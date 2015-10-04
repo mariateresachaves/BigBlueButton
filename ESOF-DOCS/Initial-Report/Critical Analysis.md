@@ -3,8 +3,6 @@ BigBlueButton has a very active community. With 57 contributors on GitHub and a 
 
 Through the analysis of the GitHub repository, we can see that BigBlueButton reached its peak in contributions in late 2014 and 2015, which proves the impact that the project is presently having on the community. We can also see the extensive testing period for this project demonstrated by the far away dates in-between releases. For example, the last version (0.9) got a release candidate in September 2014, but was only accepted at the very end of April 2015. This proves what the original authors wanted, by extensively testing their releases to assure maximum quality on their product. The same happens in all previous releases.
 
-Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for the 1.0 release were already implemented, with the last one being the reconnection of the lost users during a live conference. 
-
-// Isto deve-se ao branch ativo auto-recording. Deverá ser mencionado ou não?
-
 The repository of the BigBlueButton project is managed in the following way: whenever a new feature begins to develop or when a issue is reported, they are developed/fixed in their corresponding branch (e.g. *polling-module*). When these are ready, they are merged with the *development* branch, where it is further extensively tested. It is also where it is integrated along with all the other already existing features. When these new features finished testing without any issue, they are then merged into the *master* branch, thus creating a new release.
+
+Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for the 1.0 release were already implemented, with the last one being the reconnection of the lost users during a live conference. 
