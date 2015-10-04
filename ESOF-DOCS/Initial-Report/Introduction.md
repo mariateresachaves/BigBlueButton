@@ -35,7 +35,8 @@ At this moment the project did not have too much features and its simplicity was
 
 After solving this issue, the community suggested that BigBlueButton should have features like record and playback, but in order to do so, the architecture had to be redesigned to both capture events and process them for playback. The architecture rework began and the project was later used my Mozilla Foundation on the broadcasting and record of live classes.
 
-The developers then released the 0.8 version and the record and playback was now available to the community, increasing the platform's main accesses and substantial improvements. The later version focused on upgrade these last features (record and playback), simplifying the interface and adding accessibility for students with disabilities. The project is now at the 0.81 version - the eleventh realease.
+The developers then released the 0.8 version and the record and playback was now available to the community, increasing the platform's main accesses and substantial improvements. The later version focused on upgrade these last features (record and playback), simplifying the interface and adding accessibility for students with disabilities.
 
 ![Timeline between beta-3 and RC1 versions](images/time4.png)
 
+The project's last release is now the 0.9 version - the twelfth realease - and is currently on the testing phase for the 1.0 release.
