@@ -6,3 +6,5 @@ Through the analysis of the GitHub repository, we can see that BigBlueButton rea
 Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for the 1.0 release were already implemented, with the last one being the reconnection of the lost users during a live conference. 
 
 // Isto deve-se ao branch ativo auto-recording. Deverá ser mencionado ou não?
+
+The repository of the BigBlueButton project is managed in the following way: whenever a new feature begins to develop or when a issue is reported, they are developed/fixed in their corresponding branch (e.g. *polling-module*). When these are ready, they are merged with the *development* branch, where it is further extensively tested. It is also where it is integrated along with all the other already existing features. When these new features finished testing without any issue, they are then merged into the *master* branch, thus creating a new release.
