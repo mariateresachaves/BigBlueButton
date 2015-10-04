@@ -8,7 +8,7 @@ Through the analysis of the GitHub repository, we can see that BigBlueButton rea
 
 The BigBlueButton's repository is managed by the following way: whenever a new feature is being developed or when a issue is reported, they are developed/fixed on their corresponding branch (e.g. *polling-module*). When these are ready, they are merged with the *development* branch, where it is further extensively tested. It is also integrated along with the other existing features. When these are finished without any issue, they are merged into the *master* branch, thus creating a new release.
 
-Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for the 1.0 release have already been implemented, with the last one being the reconnection of the lost users during a live conference. 
+Currently, the developers are working on the beta testing phase for the 1.0 release. The features stated on their documentation for this release have already been implemented, with the last one being the reconnection of the disconnected users during a live conference. 
 
 ## 3.2. Positive Aspects
 
