@@ -18,20 +18,19 @@ BigBlueButton's **Road Map** is largely driven by its target market: on-line lea
 ### 1.2.1. Core Features
 
 To improve the BBB's core the following enhancements must be implemented:
- * **Audio**
- * **Presentation**
- * **Whiteboard**
- * **Users**
- * **Chat**
- * **Desktop Sharing**
- * **Polling**
- * **Closed Captioning**
- * **Breakout Rooms**
- * **Shared Notes**
- * **Synchronized playback of external media**
- * ****
- * ****
- * ****
+ * **Audio** - 
+ * **Presentation** - 
+ * **Whiteboard** - 
+ * **Users** - 
+ * **Chat** - 
+ * **Desktop Sharing** - 
+ * **Polling** - 
+ * **Closed Captioning** - 
+ * **Breakout Rooms** - 
+ * **Shared Notes** - 
+ * **Synchronized playback of external media** - 
+ * **Record and playback** - 
+ * **Video** - 
 
 
 ---Continuar----
