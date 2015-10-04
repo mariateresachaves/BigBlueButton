@@ -12,10 +12,10 @@
   1.2. Road Map
 
 
-      1.2.1. Core Features
+    1.2.1. Core Features
 
 
-      1.2.2. General Requirements
+    1.2.2. General Requirements
 
 
     1.2.3. Clients
