@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. Road Map](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#12-road-map)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.1. Core Features](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#121-core-features)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.2. General Requirements](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#122-general-requirements)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.3.Clients](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#123-clients)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.3. Clients](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#123-clients)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.4. Areas for investigation](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#124-areas-for-investigation)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3. Project Development](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#13-project-development)  
 [2. Development Process](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Development%20Process.md#2-development-process)  
