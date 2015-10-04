@@ -6,7 +6,12 @@
 BigBlueButton is an open source web conferencing system for online learning.
 It looks forward to help students and teachers to collaborate through a web platform. They may share audio, video, presentation (with whiteboard markup), chat and the presenter's desktop in real-time. The users can assume different roles according to their purpose: a **viewer** (student) can chat and send or receive audio and video; a **moderator** can mute or unmute other viewers, lock down viewers, or make anyone (including themselves) the **presenter** that can upload slides and annotate them for all to see.
 
-## 1.2. Project Development
+## 1.2. Road Map
+BigBLueButton's **Road Map** is largely driven by it's target market: on-line learnig. The focus of BBB is to the deliver a world-class product and provid the students a remote high quality learning experience. To maximize this experience, the BigBlueButton development works on stability and usuability.
+
+---Continuar----
+
+## 1.3. Project Development
 
 With the help of Denis Zgonjanin, an undergraduated student in Systems and Computer Engineering at Carleton, Richard implemented an early version of BigBlueButton using some open source components. 
 
