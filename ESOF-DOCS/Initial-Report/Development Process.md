@@ -6,7 +6,7 @@ BigBlueButton (BBB) is a project comprised of a continuously growing community w
 
 The development process is described by the following figure:
 
-<img src="http://s16.postimg.org/amrht0m1h/incremental_process.png">
+![Incremental Process chart](images/incremental_process.png)
 
 During the **Planning** phase, the committers decide the main features to be added in the new release by reviewing the BigBlueButton's Road Map and all issues concerned with stability and usability.
 
