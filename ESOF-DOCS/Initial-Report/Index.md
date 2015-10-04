@@ -1,4 +1,4 @@
-#Study of the open source project BigBlueButton
+#Open source project study - BigBlueButton
 
 ##The Development Software Process
 
