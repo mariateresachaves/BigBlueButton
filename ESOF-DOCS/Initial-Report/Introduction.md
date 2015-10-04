@@ -39,4 +39,4 @@ The developers then released the 0.8 version and the record and playback was now
 
 ![Timeline between beta-3 and RC1 versions](images/time4.png)
 
-The project's last release is now the 0.9 version - the twelfth realease - and is currently on the testing phase for the 1.0 release.
+The project's last release is now the 0.9 version - the twelfth release - and is currently on the testing phase for the 1.0 release.
