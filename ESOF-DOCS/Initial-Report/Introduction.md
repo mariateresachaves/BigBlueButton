@@ -8,12 +8,12 @@ It looks forward to help students and teachers to collaborate through a web plat
 
 ## 1.2. Road Map
 BigBlueButton's **Road Map** is largely driven by its target market: on-line learning. The focus of BBB is to the deliver a world-class product and provide the remote students a high quality learning experience. In order to achieve the proposed goals, BBB works on:
-  * Stability - doing extensive testing for each release and providing a demo server for weeks without reboot
-  * Usability - 
-  * Modularity - 
-  * Code Quality - 
-  * Scalability - 
-  * API - 
+  * **Stability** - doing extensive testing for each release and providing a demo server for weeks without reboot.
+  * **Usability** - caring about the human perception, like audio and video quality, or adding new features making the user experience more consistent and elegant.
+  * **Modularity** - constantly looking for reducing the coupling between components.
+  * **Code Quality** - refactoring and rewriting components as BBB's features set and architecture are extended.
+  * **Scalability** - building a highly collaborative environment and avoid making restrictions to the application's usage.
+  * **API** - providing a simple API for integration of 3rd party applications and open source projects.
 
 ---Continuar----
 
