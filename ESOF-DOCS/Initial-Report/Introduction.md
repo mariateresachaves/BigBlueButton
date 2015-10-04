@@ -32,6 +32,19 @@ To improve the BBB's core the following enhancements must be implemented:
  * **Record and playback** - add a playback format that creates a single video from the session.
  * **Video** - integrate WebRTC video for higher quality video.
 
+### 1.2.2. General Requirements
+
+This section describes aspects related with the overall project's quality, such as:
+
+ * **Development Environment** - setup a development environment in under 30 minutes.
+ * **Documentation** - ensure all classes are documented to the level where another programmer could understand their intent.
+ * **Stability** - ensure each release is more stable than the previous.
+ * **Unit Testing** - add unit test to the core modules (voice, video, chat, presentation, and desktop sharing) and enable developers to run the unit tests to verify conformance.
+ * **Integration Testing** - have a complete test suite to verify stability and conformance to documentation.
+ * **Stress Testing** - verify that a BigBlueButton server can run under heavy load with large number of users for 48 hours without any failure.
+ * **API** - enable external applications to inject messages into the chat window and an external application to upload a new presentation.
+ * **Troubleshooting tools** - add more capabilities to change the logging levels of all applications, making it easier to spot errors.
+
 
 ---Continuar----
 
