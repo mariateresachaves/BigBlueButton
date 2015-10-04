@@ -13,9 +13,9 @@
 
 				1.2.2. General Requirements        
 
-        1.2.3. Clients        
+        			1.2.3. Clients        
 
-        1.2.4. Areas for investigation        
+        			1.2.4. Areas for investigation        
 
     1.3. Project Development    
 
