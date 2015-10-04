@@ -45,8 +45,20 @@ This section describes aspects related with the overall project's quality, such 
  * **API** - enable external applications to inject messages into the chat window and an external application to upload a new presentation.
  * **Troubleshooting tools** - add more capabilities to change the logging levels of all applications, making it easier to spot errors.
 
+### 1.2.3. Clients
 
----Continuar----
+This section looks forward to describe the necessary web clients:
+
+ * **HTML5 Client** - create a HTML5 BigBlueButton client using the HTML5 specification.
+ * **Mobile Client** - create a mobile client that works on iOS and Android devices.
+
+### 1.2.4. Areas for investigation
+
+This section describes other areas for investigation, such as:
+
+ * **H.323** - enable BigBlueButton to integrate with other commercial conferencing systems that support H.323
+ * **XMPP** - enable to integrate with other popular IM systems.
+ * **Rest API** - create a rest-based API for BBB that would implement all the current BigBlueButton API calls.
 
 ## 1.3. Project Development
 
