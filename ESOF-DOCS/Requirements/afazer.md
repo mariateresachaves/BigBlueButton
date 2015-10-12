@@ -22,13 +22,13 @@ Foco do relatório:
 - Se quiser implementar algo novo, como o fazer. (exemplo: https://code.google.com/p/bigbluebutton/issues/detail?id=872)
 - O diagrama está correto, é necessário explicar cada um dos pontos.
 
-R1. Viewers enter presentation
-R2. Moderator makes presenter
-R3. Presenter uploads slides
-R4. Presenter annotates on slides
-R5. Presenter or Viewer send audio
-R6. All receive audio
-R7. Presenter or Viewer send video
-R8. All receive video
-R9. Mute/unmute viewers
-R10. 
+* R1. Viewers enter presentation
+* R2. Moderator makes presenter - 
+* R3. Presenter uploads slides
+* R4. Presenter annotates on slides
+* R5. Presenter or Viewer send audio
+* R6. All receive audio
+* R7. Presenter or Viewer send video
+* R8. All receive video
+* R9. Mute/unmute viewers
+* R10. 
