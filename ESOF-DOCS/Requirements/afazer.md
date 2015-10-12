@@ -23,12 +23,11 @@ Foco do relatório:
 - O diagrama está correto, é necessário explicar cada um dos pontos.
 
 * R1. Viewers enter presentation
-* R2. Moderator makes presenter - 
-* R3. Presenter uploads slides
-* R4. Presenter annotates on slides
-* R5. Presenter or Viewer send audio
-* R6. All receive audio
-* R7. Presenter or Viewer send video
+* R2. Moderator makes presenter - The moderator chooses which user will be the presenter for the specific presentation
+* R3. Presenter uploads slides - The presenter uploads slides he wants to show in that presentation
+* R4. Presenter annotates on slides - The presenter can choose to make annotations on the slides in order to better clarify the viewers
+* R5. Presenter or Viewer send/receive audio - The presenter can choose when to talk, ......
+* R6. Presenter or Viewer send/receive video
 * R8. All receive video
 * R9. Mute/unmute viewers
 * R10. 
