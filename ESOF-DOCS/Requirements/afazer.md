@@ -14,9 +14,6 @@ Sugerido a 02/2010, implementado na versão 0.9 a 04/2015.
 https://code.google.com/p/bigbluebutton/issues/detail?id=831
 Sugerido a 01/2011, implementado na versão 1.0, que ainda não foi lançada.
 
-https://code.google.com/p/bigbluebutton/issues/detail?id=903
-Sugerido a 03/2011, implementado na versão 0.7, a 07/2010.
-
 http://docs.bigbluebutton.org/support/faq.html#when-will-feature-x-be-implemented
 Para verificar qual o próximo requisito a ser implementado, basicamente, os developers principais vêm qual é o que acham ser mais importante para o programa. Depois verificam o mesmo com restantes developers e por fim com a comunidade. Algumas das features foram implementadas de forma imediata, tipo o whiteboard, outras demoraram 4 anos (como o polling), simplesmente porque havia outras features com maior prioridade do que este requisito.
 
