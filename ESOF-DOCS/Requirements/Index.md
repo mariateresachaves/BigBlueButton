@@ -4,7 +4,7 @@
 [1. Requirements Engineering](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#1-requirements-engineering)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1. Description](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#11-description)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. Techniques](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#12-techniques)  
-&nbsp;&nbsp;&nbsp;&nbsp;[1.3. Stakeholders](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#13-stakeholders)
+&nbsp;&nbsp;&nbsp;&nbsp;[1.3. Stakeholders](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#13-stakeholders)    
 &nbsp;&nbsp;&nbsp;&nbsp;[1.4. Inappropriate Requirements](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#14-inappropriate-requirements)
 
 
