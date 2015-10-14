@@ -6,10 +6,12 @@
 
 Software development begins by specifying the respective project requirements. These are statements that describe what the system must do, how it must behave, the properties it must exhibit, the qualities it must possess, and the constraints that the system and its development must satisfy. Requirements engineering emphasizes the use of systematic and repeatable techniques that ensure the completeness, consistency, and relevance of the system requirements. 
 
-The *IEEE* defines a requirement as:
+The *IEEE* defines a requirement as:    
+
 1. a condition or capability needed by a user to solve a problem or achieve an objective,
 2. a condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed document,
-3. a documented representation of a condition or capability as in definition 1 or 2.
+3. a documented representation of a condition or capability as in definition 1 or 2.    
+4. 
 *[Institute of Electrical and Electronic Engineers. IEEE Standard Glossary of Software Engineering Terminology (IEEE Std 610.12-1990). New York, NY: Institute of Electrical and Electronics Engineers, 1990.]*
 
 
