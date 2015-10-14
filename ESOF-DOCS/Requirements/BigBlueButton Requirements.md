@@ -14,6 +14,20 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 <!-- Tabela com os requisitos + características -->
 
+| Name   |      Description    |
+|----------|:-------------:|
+| Audio |  BBB should have audio for all users with no perceptual delay between them |
+| Presentation |  Full-screen mode of the presentation, which includes notifications for new chat messages or of people joining in or out  |
+| Whiteboard | TODO |
+| Chat |
+| Desktop sharing |
+| Polling |
+| Breakout Rooms |
+| Shared Notes |
+| Video |
+| Record and playback |
+| Synchronized playback of external media |
+
 ##2.3. Critical Analysis
 
 <!-- Problemas que tivemos em fazer o levantamento de requesitos, Técnicas usadas e porque que não usamos outras -->
