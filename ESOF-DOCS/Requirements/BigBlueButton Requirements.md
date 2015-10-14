@@ -1,6 +1,14 @@
 ##2. BigBlueButton Requirements
 
-##2.1. Specification
+##2.2. New Requirements
+
+In the BigBlueButton community, the process of elicitation for new requirements works in a different way of the tipically used in software engineering. 
+The development team canvasses suggestions for  new requirements in the forum user community. When someone finds a proposal worthwhile in their opinion, they pitch a new issue in *Github*. The proposition has then to be accepted by the project manager. If this proposal entails major alterations to the project, the lead architect has to give his approval. In the event of being accepted, the new feature is added as a milestone to the next release.
+
+Contrary to custom, the requirements are designed by the developers. While taking into consideration the users requests and suggestions, the development team is the one responsible for the discussion of how to implement, integrate and for the revision of the request. After everything has been outlined, the development phase can begin.
+
+
+##2.2. Specification
 
 <!-- Descrever os requesitos -->
 
@@ -10,7 +18,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 * The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of live video chat. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads.
 * The *moderators* have to be able to choose who they want the presenter to be (including themselves), and giving them their respective capabilities. They also need to be able to mute and unmute both the viewers and presenters, to avoid various situations like many users talking at the same time, or background noise from a specific user. They also need to get the possibility to lock down a user, for example, in a case where this user shows abusive behavior
 
-##2.2. Requirements Analysis
+##2.3. Requirements Analysis
 
 <!-- Tabela com os requisitos + características -->
 
@@ -28,6 +36,6 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 | Record and playback |
 | Synchronized playback of external media |
 
-##2.3. Critical Analysis
+##2.4. Critical Analysis
 
 <!-- Problemas que tivemos em fazer o levantamento de requesitos, Técnicas usadas e porque que não usamos outras -->
