@@ -1,4 +1,4 @@
-##1. Requirements elicitation
+##1. Requirements Elicitation
 
 <!-- serve só para contextualizar -->
 
