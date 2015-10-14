@@ -8,7 +8,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 * The *viewers* have to be able to get a clean and sleek interface, so that they can easily interact with the application. They also need means to participate in a presentation, whether if he wants to have a more laid-back, passive attitude (by giving means of just be able to listen and view the presentations) or a more active participation by providing the viewer with chat possibilities and also to interact with the presenter and the presentation itself.
 * The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of live video chat. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads.
-* The *moderators*
+* The *moderators* have to be able to choose who they want the presenter to be (including themselves), and giving them their respective capabilities. They also need to be able to mute and unmute both the viewers and presenters, to avoid various situations like many users talking at the same time, or background noise from a specific user. They also need to get the possibility to lock down a user, for example, in a case where this user shows abusive behavior
 
 ##2.2. Requirements Analysis
 
