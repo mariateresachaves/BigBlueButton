@@ -1,4 +1,4 @@
-##1. Requirements engineering
+##1. Requirements Engineering
 
 <!-- serve só para contextualizar -->
 
@@ -25,7 +25,7 @@ Requirements engineering comprises the following:
 ![Requirements engineering](/images/requirements.png "Requirements Engineering")
 
 Requirements engineering is very complex because of the three roles involved in producing even a single requirement:
-the ***user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem due to:
+the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem due to:
 * The user understands the problem to be solved by the system but not how to develop a system;
 * The developer understands the tools and techniques required to construct and maintain a system but not the problem to be solved by that system;
 * Finally the author needs to create a statement that communicates unambiguously to the developer what the requestor desires. 
