@@ -7,10 +7,9 @@ The development team canvasses suggestions for  new requirements in the forum us
 
 Contrary to custom, the requirements are designed by the developers. While taking into consideration the users requests and suggestions, the development team is the one responsible for the discussion and documentation of how to implement, integrate the new feature and for the revision of the request. After everything has been outlined, the development phase can begin.
 
-Bellow there's a schematic of boundary between the requirements development and requirements management of this project.
+Below there's a scheme of the boundary between the requirements development and requirements management of this project.
 
 ![Requirements Development and Management](images/requirementsManagement.png "Requirements Development and Management")
-
 
 ##2.2. Specification
 
