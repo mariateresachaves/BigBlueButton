@@ -21,7 +21,7 @@ Requirements engineering comprises the following:
 * **Requirements verification:** is the process of ensuring that the system requirements are complete, correct, consistent, and clear.
 * **Requirements management:** is the process of scheduling, coordinating, and documenting the requirements engineering activities (that is, elicitation, analysis, specification, and verification).
 
-![Requirements engineering](images/requirements.png "Requirements Engineering")
+![Requirements engineering](images/requirements_new.png "Requirements Engineering")
 
 Requirements engineering is very complex because of the three roles involved in producing even a single requirement,
 the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem. This problem ir further complicated by the number and diversity of system users. In practice, any system stakeholder has needs and expectations, i.e. requirements, for the system.  The clear definition of the requirements is of vital importance because of their pervasive quality. They continuously affect the development and maintenace phases throughout a system's development. For example, in the testing phase, the requirements provide a quality statement in wich is possible to define the standard of correctness against which to test.
