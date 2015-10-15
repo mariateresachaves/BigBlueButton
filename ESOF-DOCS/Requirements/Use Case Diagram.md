@@ -20,7 +20,7 @@ The **Moderator** can:
 The **Presenter** can:
 
 * **upload slides** and switch between slides;
-* **start a poll** and he has to choose a type. He has the possibility to **customize** it and after that he can **publish the results** or **cancel the poll** at anytime;
+* **start a poll** and choose the type. He has the possibility to **customize** it and after that he can **publish the results** or **cancel the poll** at anytime;
 * **annotate on slides** like a whiteboard;
 * **share desktop**.
 
