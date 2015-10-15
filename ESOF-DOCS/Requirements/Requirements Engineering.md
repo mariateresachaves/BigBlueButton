@@ -26,10 +26,6 @@ Requirements engineering comprises the following:
 Requirements engineering is very complex because of the three roles involved in producing even a single requirement,
 the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem. This problem ir further complicated by the number and diversity of system users. In practice, any system stakeholder has needs and expectations, i.e. requirements, for the system.  The clear definition of the requirements is of vital importance because of their pervasive quality. They continuously affect the development and maintenace phases throughout a system's development. For example, in the testing phase, the requirements provide a quality statement in wich is possible to define the standard of correctness against which to test.
 
-------
-Understanding what the client actually wants or what he believes he needs (beyond other aspects like business or process rules) is a high priority issue. However this task is far from easy. In software engineering it's never clear which are the requirements based only on the users and customers description, since they have no clue about the project's complexity and other related issues.
-
-
 ##1.2. Techniques
 In order to collect/discover their requirements there are useful **techniques** that help to clarify what the client really wants:
 
