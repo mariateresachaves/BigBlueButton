@@ -29,7 +29,7 @@ The **Presenter** can:
 * **annotate on files** like a whiteboard;
 * **share desktop**.
 
-Below there's a use case diagram to re
+Below there's a use case diagram to represent the actions that the user can perform on the system.
 
 ![Use Case Diagram](images/UseCaseDiagram.png "Use Case Diagram")
 
