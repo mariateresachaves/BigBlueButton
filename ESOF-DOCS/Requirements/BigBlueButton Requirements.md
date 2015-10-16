@@ -21,11 +21,17 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen1.png" width="450" height="350">
-  <span class="caption simple-caption">
+  <span class="caption">
         <p align="center">Fig. 1 - Initial choice for speaking or listening only</p>
         </span>
 </p>
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen7.png" width="450" height="350">
+  <span class="caption">
+        <p align="center">Fig. 2 - Viewer can signal various emotions, in this case, the viewer is confused with the presentation</p>
+        </span>
+</p>
 
 
 * The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of live video chat. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads.
