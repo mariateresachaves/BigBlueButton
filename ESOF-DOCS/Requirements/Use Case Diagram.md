@@ -7,7 +7,7 @@ The **Viewer** can:
 * have access to general **chat** or **make a private** chat with someone;
 * **change the status icon**, so that others can see their current status;
 * **send or receive audio or video** to communicate;
-* **change layout** according to the presentation purpose. He has the possibility to **customize** and **lock the layer**;
+* **change layout** according to the presentation purpose. He has the possibility to **customize** and **apply to all**;
 * have **access to shortcuts** informative panel;
 * **zoom in/out**;
 * **access webcam settings** to **change camera** and to **set image resolution**;
@@ -28,6 +28,8 @@ The **Presenter** can:
 * **start a poll** and choose the type. He has the possibility to **customize** it and after that he can **publish the results** or **cancel the poll** at anytime;
 * **annotate on files** like a whiteboard;
 * **share desktop**.
+
+Below there's a use case diagram to re
 
 ![Use Case Diagram](images/UseCaseDiagram.png "Use Case Diagram")
 
