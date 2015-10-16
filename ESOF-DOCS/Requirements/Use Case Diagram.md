@@ -4,24 +4,29 @@ BigBlueButton is a conference system in which the users can assume different rol
 
 The **Viewer** can:
 
-* have access to general **chat** or **make a private** chat with someone
-* **change the status icon**, so that others can see their current status
-* **send or receive audio or video** to communicate
-* **change layout** according to the presentation purpose
-* have **access to shortcuts** informative panel
-* have **access to tutorials and FAQs** to understand how the system works
+* have access to general **chat** or **make a private** chat with someone;
+* **change the status icon**, so that others can see their current status;
+* **send or receive audio or video** to communicate;
+* **change layout** according to the presentation purpose. He has the possibility to **customize** and **lock the layer**;
+* have **access to shortcuts** informative panel;
+* **zoom in/out**;
+* **access webcam settings** to **change camera** and to **set image resolution**;
+* have **access to tutorials and FAQs** to understand how the system works.
 
 The **Moderator** can:
 
-* **make** a viewer the **presenter**;
-* **lock down other viewers**, to ensure that other viewers cannot become presenters;
-* **(un)mute other viewers**.
+* **make** a Viewer the **presenter**;
+* **lock down other Viewers**, to ensure that other Viewers cannot become presenters;
+* **(un)mute other Viewers**;
+* **mute all except the presenter**. If a Viewer joins after the mute all option is activated, then that Viewer will be also muted;
+* **lock user microphone**
 
 The **Presenter** can:
 
-* **upload slides** and switch between slides;
+* **raise hand**, like in a classroom;
+* **upload files** and switch between files (if there's no upload the default file is a whiteboard)
 * **start a poll** and choose the type. He has the possibility to **customize** it and after that he can **publish the results** or **cancel the poll** at anytime;
-* **annotate on slides** like a whiteboard;
+* **annotate on files** like a whiteboard;
 * **share desktop**.
 
 ![Use Case Diagram](images/UseCaseDiagram.png "Use Case Diagram")
