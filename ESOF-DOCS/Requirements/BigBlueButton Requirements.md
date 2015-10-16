@@ -17,7 +17,7 @@ Below there's a schema of the boundary between the requirements development and 
 
 The purpose of BigBlueButton is to bring access an high-quality online learning experience to every student with a web browser. There will be 3 kinds of users: 1) the *viewers*, who will usually be the students; 2) the professors or *presenters* who will be teaching; 3) the *moderators*, who will be in charge of maintaining the overall welfare of the presentation. In order to do this, certain requirements were needed for BigBlueButton to be able to achieve its purpose. 
 
-* The *viewers* have to be able to get a clean and sleek interface, so that they can easily interact with the application. They also need means to participate in a presentation, whether if he wants to have a more laid-back, passive attitude (by giving means of just be able to listen and view the presentations, shown in the picture below) or a more active participation by providing the viewer with chat possibilities and also to interact with the presenter and the presentation itself.
+* The *viewers* have to be able to get a clean and sleek interface, so that they can easily interact with the application. They also need means to participate in a presentation, whether if he wants to have a more laid-back, passive attitude (by giving means of just be able to listen and view the presentations, *Fig.1*) or a more active participation by providing the viewer with chat possibilities *(Fig.2)* and also to interact with the presenter and the presentation itself, by showing if the viewer is content, confused or wants to raise his hand to participate *(Fig.3)*.
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen1.png" width="450" height="350">
@@ -34,7 +34,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 </p>
 
 <p align="center">
-  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen7.png">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen7.png" width="250" height="350">
   <span class="caption">
         <p align="center">Fig. 3 - Viewer can signal various emotions, in this case, the viewer is confused with the presentation</p>
         </span>
