@@ -68,6 +68,13 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
         </span>
 </p>
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen8.png" width="670" height="295">
+  <span class="caption">
+        <p align="center"><b>Fig. 7</b> - The moderator can mute/unmute and lock other users</p>
+        </span>
+</p>
+
 ##2.3. Requirements Analysis
 
 <!-- Tabela com os requisitos + características -->
