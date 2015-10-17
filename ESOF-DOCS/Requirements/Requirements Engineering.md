@@ -24,7 +24,7 @@ Requirements engineering comprises the following:
 <p align="center">
   <img src="images/requirements_new.png" width="700" height="398">
   <span class="caption">
-        <p align="center"><b>Fig. 1</b> -Requirements engineering</p>
+        <p align="center"><b>Fig. 1</b> Requirements engineering</p>
         </span>
 </p>
 
