@@ -43,7 +43,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 
 
-* The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of desktop sharing *(Fig.4)*. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads *(Fig.5)*.
+* The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of desktop sharing *(Fig.4)*. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads *(Fig.5)*. The polling option is also available, which can be useful for interactive exercises with the audience *(Fig.6)*.
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen6.png" width="670" height="295">
@@ -59,26 +59,33 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
         </span>
 </p>
 
-* The *moderators* have to be able to choose who they want the presenter to be *(Fig.6)*, and giving them their respective capabilities. They also need to be able to mute and unmute both the viewers and presenters, to avoid various situations like many users talking at the same time, or background noise from a specific user. They also need to get the possibility to lock down a user, for example, in a case where this user shows abusive behavior. *(Fig.7)* In addition, he can also see the displayed reactions of the viewers, which will always appear at the top of the users list and act upon them *(Fig.8)*.
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen9.png" width="415" height="350">
+  <span class="caption">
+        <p align="center"><b>Fig. 6</b> - Various polls can be done, including with custom choice options</p>
+        </span>
+</p>
+
+* The *moderators* have to be able to choose who they want the presenter to be *(Fig.7)*, and giving them their respective capabilities. They also need to be able to mute and unmute both the viewers and presenters, to avoid various situations like many users talking at the same time, or background noise from a specific user. They also need to get the possibility to lock down a user, for example, in a case where this user shows abusive behavior. *(Fig.8)* In addition, he can also see the displayed reactions of the viewers, which will always appear at the top of the users list and act upon them *(Fig.9)*.
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen4.png" width="675" height="405">
   <span class="caption">
-        <p align="center"><b>Fig. 6</b> - The moderator can make someone the new presenter (including himself)</p>
+        <p align="center"><b>Fig. 7</b> - The moderator can make someone the new presenter (including himself)</p>
         </span>
 </p>
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen8.png" width="670" height="295">
   <span class="caption">
-        <p align="center"><b>Fig. 7</b> - The moderator can mute/unmute and lock other users</p>
+        <p align="center"><b>Fig. 8</b> - The moderator can mute/unmute and lock other users</p>
         </span>
 </p>
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen3.png" width="675" height="405">
   <span class="caption">
-        <p align="center"><b>Fig. 8</b> - The moderator/presenter will see, at the top of the list, if any user asks for permission to intervene in the presentation. He can then unmute or turn video chat on</p>
+        <p align="center"><b>Fig. 9</b> - The moderator/presenter will see, at the top of the list, if any user asks for permission to intervene in the presentation. He can then unmute or turn video chat on</p>
         </span>
 </p>
 
