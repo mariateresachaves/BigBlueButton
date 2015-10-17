@@ -83,17 +83,8 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 BigBlueButton is a conference system in which the users can assume different roles according to their purpose. After **authenticating** the user can access to the system as a **Viewer**, **Presenter** or a **Moderator**.
 
-The **Viewer** can:
 
-* **raise hand**, like in a classroom;
-* have access to general **chat** or **make a private** chat with someone;
-* **change the status icon**, so that others can see their current status;
-* **send or receive audio or video** to communicate;
-* **change layout** according to the presentation purpose. He has the possibility to **customize** and **apply to all**;
-* have **access to shortcuts** informative panel;
-* **zoom in/out**;
-* **access webcam settings** to **change camera** and to **set image resolution**;
-* have **access to tutorials and FAQs** to understand how the system works.
+The **Viewers** have to be able to get a clean and sleek interface, so that they can easily interact with the application, without distractions. They also need means to participate in a presentation, whether if he wants to have a more laid-back, passive attitude (by giving means of just be able to listen and view the presentations, *Fig.2*) or a more active participation by providing the viewer with **video and audio**. They are provided with **chat** possibilities *(Fig.3)* and also the ability to interact with the presenter and the presentation itself, through **status icons** that relay his emotions to the presenter *(Fig.4)*. He can also **raise his hand** to participate, just like in a classroom. Lastly, he has a number of customizable settings, like **changing the layout** (and even **customize the layout** and **apply it to all**), **access webcam settings** to **change camera** and to **set image resolution** and have **access to tutorials and FAQs** to understand how the system works. .
 
 The **Moderator** can:
 
