@@ -46,7 +46,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 * The *presenters* need to be able to easily transmit their knowledge to the viewers, whether by chat, audio and/or video messages, or even with the possibility of desktop sharing *(Fig.4)*. It is also imperative to give them the possibility to upload demonstrative files of the subject they are presenting to help contextualizing, and also to edit them in real-time, in the case they want to make some extra annotations or to emphasize some particular detail in their uploads *(Fig.5)*.
 
 <p align="center">
-  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen6.png" width="415" height="350">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen6.png" width="670" height="295">
   <span class="caption">
         <p align="center">Fig. 4 - As a presenter, one can enable/disable own audio and video and share his desktop with any person he sees fit</p>
         </span>
