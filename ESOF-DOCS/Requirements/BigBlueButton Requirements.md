@@ -75,6 +75,13 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
         </span>
 </p>
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen3.png" width="675" height="405">
+  <span class="caption">
+        <p align="center"><b>Fig. 8</b> - The moderator/presenter will see, at the top of the list, if any user asks for permission to intervene in the presentation. He can then unmute or turn video chat on</p>
+        </span>
+</p>
+
 ##2.3. Requirements Analysis
 
 <!-- Tabela com os requisitos + características -->
