@@ -16,7 +16,14 @@ Below there's a schematic of the boundary between the requirements development a
         </span>
 </p>
 
+The choice of development for new features in the new release is decided by the core development team. 
+When planning a release, they look at the outstanding issues in the following order:
+* What are the most important items on the BBB road map?
+* What refactoring/features do the core committers believe are necessary to improve the code base/maintainability/usability of the product?
+* What features are the community asking to implement (process described above)?
 
+For that reason there are features, like the whiteboard, that were implemented immediately, but others, like the polling, took several years to be developed because there were more immediate priorities.
+ 
 ##2.2. Specification
 
 <!-- Descrever os requesitos -->
