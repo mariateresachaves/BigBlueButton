@@ -65,11 +65,12 @@ The success of requirements engineering depends on the identification and solici
 
 The failure to capture the right requirements is the major risk with requirements engineering. If the requirements are in any way compromised they will be unable to produce systems that satisfy the customers and fulfill the market expectations. 
 Inappropriate requirements can result from the following:
+    
+* **Insufficient generality:** Insufficient generality in the requirements leads to a design that is too brittle to deal with the change actually experienced over the lifetime of the software.    
 
-<--- ----Editar----- --->
-* failure to distinguish between product-line-wide requirements and product-specific requirements: These different kinds of requirements have different audiences in a product line. The core asset builders need to know the requirements they must build to, while the product-specific software builders must know what is expected of them.
-* insufficient generality: Insufficient generality in the requirements leads to a design that is too brittle to deal with the change actually experienced over the lifetime of the product line.
-* excessive generality: Overly general requirements lead to excessive effort in producing both core assets (to provide that generality) and specific products (which must turn that generality into a specific instantiation).
-* wrong variation points: Incorrect determination of the variation points results in inflexible products and the inability to respond rapidly to customer needs and market shifts.
-* failure to account for qualities other than behavior: Product line requirements (and software requirements in general) should capture requirements for quality attributes such as performance, reliability, and security.
+* **Excessive generality:** Overly general requirements lead to excessive effort in producing both core assets (to provide that generality) and specific products (which must turn that generality into a specific instantiation).    
+
+* **Wrong variation points:** Incorrect determination of the variation points, results in inflexible software and the inability to respond rapidly to customer needs and market shifts.    
+
+* **Failure to account for qualities other than behavior:** Software requirements should capture requirements for quality attributes such as performance, reliability, and security.
 
