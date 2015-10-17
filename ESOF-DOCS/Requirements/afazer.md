@@ -31,3 +31,7 @@ Foco do relatório:
 * R8. All receive video
 * R9. Mute/unmute viewers
 * R10. 
+* 
+
+
+O diagrama de Use Cases não será melhor juntar à secção 2? Falam da mesma coisa e acho que faria mais sentido (passar para 2.3 ou 2.4 e a Critical Analysis ficar a 2.5).
