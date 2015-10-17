@@ -5,7 +5,7 @@
 In the BigBlueButton community, the process of elicitation for new requirements works in a different way of the tipically used in software engineering. 
 The **development team canvasses suggestions** for  new requirements in the **forum user community**. When someone from the development team finds a proposal worthwhile, they pitch a new issue in *Github*. The proposition has then to be **accepted by the project manager**. If this proposal entails major alterations to the project, the lead architect has to give his approval. In the event of being accepted, the new feature is added as a **milestone to the next release**.
 
-Contrary to custom, the requirements are designed by the developers. While taking into consideration the users requests and suggestions, the development team is the one responsible for the discussion and documentation of how to implement, integrate the new feature and for the revision of the request. After everything has been outlined, the development phase can begin.
+Contrary to custom, the **requirements are designed by the developers**. While taking into consideration the users requests and suggestions, the development team is the one responsible for the discussion and documentation of how to implement, integrate the new feature and for the revision of the request. After everything has been outlined, the development phase can begin.
 
 Below there's a schematic of the boundary between the requirements development and requirements management of this project.
 
