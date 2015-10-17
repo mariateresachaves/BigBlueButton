@@ -61,6 +61,13 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 * The *moderators* have to be able to choose who they want the presenter to be (including themselves), and giving them their respective capabilities. They also need to be able to mute and unmute both the viewers and presenters, to avoid various situations like many users talking at the same time, or background noise from a specific user. They also need to get the possibility to lock down a user, for example, in a case where this user shows abusive behavior
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen4.png" width="675" height="405">
+  <span class="caption">
+        <p align="center"><b>Fig. 6</b> - The moderator can make someone the new presenter (including himself)</p>
+        </span>
+</p>
+
 ##2.3. Requirements Analysis
 
 <!-- Tabela com os requisitos + características -->
