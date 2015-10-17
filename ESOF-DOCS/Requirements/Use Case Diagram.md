@@ -4,6 +4,7 @@ BigBlueButton is a conference system in which the users can assume different rol
 
 The **Viewer** can:
 
+* **raise hand**, like in a classroom;
 * have access to general **chat** or **make a private** chat with someone;
 * **change the status icon**, so that others can see their current status;
 * **send or receive audio or video** to communicate;
@@ -23,7 +24,6 @@ The **Moderator** can:
 
 The **Presenter** can:
 
-* **raise hand**, like in a classroom;
 * **upload files** and switch between files (if there's no upload the default file is a whiteboard)
 * **start a poll** and choose the type. He has the possibility to **customize** it and after that he can **publish the results** or **cancel the poll** at anytime;
 * **annotate on files** like a whiteboard;
