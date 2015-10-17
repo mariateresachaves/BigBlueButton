@@ -22,21 +22,21 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen1.png" width="450" height="350">
   <span class="caption">
-        <p align="center">Fig. 1 - Initial choice for speaking or listening only</p>
+        <p align="center"><b>Fig. 1</b> - Initial choice for speaking or listening only</p>
         </span>
 </p>
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen5.png" width="450" height="350">
   <span class="caption">
-        <p align="center">Fig. 2 - Viewer can chat with the public, for all to see (left) or he can choose someone to private chat with (right)</p>
+        <p align="center"><b>Fig. 2</b> - Viewer can chat with the public, for all to see (left) or he can choose someone to private chat with (right)</p>
         </span>
 </p>
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen7.png" width="250" height="350">
   <span class="caption">
-        <p align="center">Fig. 3 - Viewer can signal various emotions, in this case, the viewer is confused with the presentation</p>
+        <p align="center"><b>Fig. 3</b> - Viewer can signal various emotions, in this case, the viewer is confused with the presentation</p>
         </span>
 </p>
 
@@ -48,14 +48,14 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen6.png" width="670" height="295">
   <span class="caption">
-        <p align="center">Fig. 4 - As a presenter, one can enable/disable own audio and video and share his desktop with any person he sees fit</p>
+        <p align="center"><b>Fig. 4</b> - As a presenter, one can enable/disable own audio and video and share his desktop with any person he sees fit</p>
         </span>
 </p>
 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/screen2.png" width="415" height="350">
   <span class="caption">
-        <p align="center">Fig. 5 - The presenter can write anything over the slides he uploaded. He also has options to draw squares, rectangles or even free drawings</p>
+        <p align="center"><b>Fig. 5</b> - The presenter can write anything over the slides he uploaded. He also has options to draw squares, rectangles or even free drawings</p>
         </span>
 </p>
 
