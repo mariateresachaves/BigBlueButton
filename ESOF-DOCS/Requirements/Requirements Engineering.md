@@ -27,23 +27,28 @@ Requirements engineering is very complex because of the three roles involved in 
 the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem. This problem ir further complicated by the number and diversity of system users. In practice, any system stakeholder has needs and expectations, i.e. requirements, for the system.  The clear definition of the requirements is of vital importance because of their pervasive quality. They continuously affect the development and maintenace phases throughout a system's development. For example, in the testing phase, the requirements provide a quality statement in wich is possible to define the standard of correctness against which to test.
 
 ##1.2. Techniques
+
 In order to collect/discover their requirements there are useful **techniques** that help to clarify what the client really wants:
 
-* Interviews - various issues are explored with stakeholders, or is based on a pre-determined list of questions or mixing both;
+* **Interviews:** various issues are explored with stakeholders, or is based on a pre-determined list of questions or mixing both;
 
-* Facilitated meetings (brainstorming, focus groups, etc.) - 
+* **Facilitated meetings (brainstorming, focus groups, etc.)**:
+      * **Brainstorming** is a method of quickly generating many creative ideas from a group of people.
+      * **A focus group** is an interactive session with a carefully selected group of people designed to capitalize on the synergy of a group. The focus group report records of what was learned, including both agreements and disagreements among the participants.
 
-* Questionnaires - 
+* **Surveys/Questionnaires:** Surveys allow you to collect information from many people in a relatively short period. A survey can be an effective way to collect quantitative information; however, writing the questions requires great skill and care to avoid ambiguity that could compromise the utility of the results.
 
-* Goal analyses - 
+* **Goal analyses:** Goal analysis comprehends the exploration of information sources for goal identification followed by organization and classification of goals, namely:
+      * Explore the available information;
+      * Identify activities, such as identifying stakeholders, identifying agents and their responsibilities from the information provided by the previous explore activities;
+      * Organize activities and organize goals according to goal dependency relations.
 
-* Social observation and analysis (of how people actually work) - 
+* **Social observation and analysis** - Observation is watching people as they go about their jobs. Observation can be an effective way to gain a realistic and detailed understanding of how work is done in the production environment; however, it is time consuming and may disrupt work.
 
-* (User-interface) Prototypes - 
+* **(User-interface) Prototypes:** An initial version of a system which is available early so that the users can experiment with the system and point out its strengths and weaknesses of the implemented requirements.
 
-* Scenarios, user stories, use cases (real-life usage examples) - 
+* **Scenarios, user stories, use cases (real-life usage examples):** A use case describes a scenario in which a user interacts with the system being defined to achieve a specific goal or accomplish a particular task. Use cases are described in terms of the user's work terminology, not computerese. By focusing on essential use cases, stripped of implementation constraints or alternatives, the analyst can derive software requirements that will enable the user to achieve his objectives in each specific usage scenario. 
 
-<!-- quais as técnicas que existem -->
 
 ##1.3. Stakeholders
 
