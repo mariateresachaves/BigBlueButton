@@ -4,7 +4,7 @@
 
 <!-- Descrever os requesitos -->
 
-The purpose of BigBlueButton is to bring access an high-quality online learning experience to every student with a web browser. There will be 3 kinds of users: 1) the *viewers*, who will usually be the students; 2) the professors or *presenters* who will be teaching; 3) the *moderators*, who will be in charge of maintaining the overall welfare of the presentation. In order to do this, certain requirements were needed for BigBlueButton to be able to achieve its purpose. 
+The purpose of BigBlueButton is to bring access an high-quality online learning experience to every student with a web browser. There will be 3 kinds of users: 1) the **Viewers**, who will usually be the students; 2) the professors or **Presenters** who will be teaching; 3) the **Moderators**, who will be in charge of maintaining the overall welfare of the presentation. In order to do this, certain requirements were needed for BigBlueButton to be able to achieve its purpose. 
 
 * The **Viewers** have to be able to get a clean and sleek interface, so that they can easily interact with the application, without distractions. They also need means to participate in a presentation, whether if he wants to have a more laid-back, passive attitude (by giving means of just be able to listen and view the presentations, *Fig.2*) or a more active participation by providing the viewer with **video and audio**. They are provided with **chat** possibilities *(Fig.3)* and also the ability to interact with the presenter and the presentation itself, through **status icons** that relay his emotions to the presenter *(Fig.4)*. He can also **raise his hand** to participate, just like in a classroom. Lastly, he has a number of customizable settings, like **changing the layout** (and even **customize the layout** and **apply it to all**), **access webcam settings** to **change camera** and to **set image resolution** and have **access to tutorials and FAQs** to understand how the system works.
 
@@ -79,7 +79,7 @@ The purpose of BigBlueButton is to bring access an high-quality online learning 
 
 ##3.2. Use Case Diagram
 
-BigBlueButton is a conference system in which the users can assume different roles according to their purpose. After **authenticating** the user can access to the system as a **Viewer**, **Presenter** or a **Moderator**.
+BigBlueButton is a conference system in which the users can assume different roles according to their purpose. After **authenticating** the user can access to the system as a **Viewer**, **Presenter** or a **Moderator**, as stated in *section 3.1.*.
 
 Below there's a use case diagram to represent the actions that the user can perform on the system.
 
