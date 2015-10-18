@@ -79,3 +79,6 @@ Inappropriate requirements can result from the following:
 
 * **Failure to account for qualities other than behavior:** Software requirements should capture requirements for quality attributes such as performance, reliability, and security.
 
+<p align=right>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Index.md">Back to Index</a>
+</p>
