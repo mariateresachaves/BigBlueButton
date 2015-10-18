@@ -26,5 +26,6 @@ Lastly a conference allows the users to communicate through a general or private
 | User | `User.allInstances->isUnique{userID}` |
 | User | `presenterStatus = true implies StatusIcons = presenter` |
 
-
-
+<p align=right>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Index.md">Back to Index</a>
+</p>
