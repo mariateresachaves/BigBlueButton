@@ -85,4 +85,11 @@ Below there's a use case diagram to represent the actions that the user can perf
 
 ![Use Case Diagram](images/UseCaseDiagram.png "Use Case Diagram")
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/UseCaseDiagram.png">
+  <span class="caption">
+        <p align="center"><b>Fig. 11</b> - BigBlueButton's use case diagram</p>
+        </span>
+</p>
+
 <!-- Diagrama de casos de uso, o que significa cada caso de uso -->
