@@ -53,9 +53,9 @@ However, this process isn’t perfect. The obvious problem is that, as they don�
 
 Their **Road Map** is a way to cover the holes this process presents. Given that BigBlueButton was born in a university, they are well aware of the basic features expected from the users because, in the end, they are one of the target market.
 
-In order to understand if the users were satisfied with BBB’s requirements management we posted on BBB user’s forum the following questions: 
-*As an user, if you presented an idea for a new feature and it was accepted by the development team, does the end result met your expectations? If not, what alterations would you suggest?*
-*Are you satisfied with the way new requirements are presented to BBB, or would you like to be more involved in the design of the requisites for the new features?*
+In order to understand if the users were satisfied with BBB’s requirements management we posted on BBB user’s forum the following questions:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*As an user, if you presented an idea for a new feature and it was accepted by the development team, does the end result met your expectations? If not, what alterations would you suggest?*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Are you satisfied with the way new requirements are presented to BBB, or would you like to be more involved in the design of the requisites for the new features?*
 
 Unfortunately, we didn’t received any feedback and we were not able to get an immediate impression from the users.
 
