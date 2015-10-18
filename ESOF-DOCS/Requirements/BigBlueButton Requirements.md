@@ -12,7 +12,7 @@ Below there's a schematic of the boundary between the requirements development a
 <p align="center">
   <img src="images/requirementsManagement.png" width="500" height="350">
   <span class="caption">
-        <p align="center"><b>Fig. 1</b> - Requirements Development and Management</p>
+        <p align="center"><b>Fig. 2</b> - Requirements Development and Management</p>
         </span>
 </p>
 
