@@ -83,8 +83,6 @@ BigBlueButton is a conference system in which the users can assume different rol
 
 Below there's a use case diagram to represent the actions that the user can perform on the system.
 
-![Use Case Diagram](images/UseCaseDiagram.png "Use Case Diagram")
-
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/images/UseCaseDiagram.png">
   <span class="caption">
