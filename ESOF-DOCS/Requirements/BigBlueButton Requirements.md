@@ -47,3 +47,7 @@ For that reason there are features, like the whiteboard, that were implemented i
 ##2.3. Critical Analysis
 
 <!-- Problemas que tivemos em fazer o levantamento de requesitos, Técnicas usadas e porque que não usamos outras -->
+
+<p align=right>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Index.md">Back to Index</a>
+</p>
