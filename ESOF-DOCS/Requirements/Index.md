@@ -14,5 +14,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1. Requirements Overview](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Specification.md#31-requirements-specification)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.2. Use Case Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Specification.md#32-use-case-diagram)  
 [4. Domain Model](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Domain%20Model.md#4-domain-model)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.1. Description](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Domain%20Model.md#41-description)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.2. Constraints](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Domain%20Model.md#42-constraints)  
