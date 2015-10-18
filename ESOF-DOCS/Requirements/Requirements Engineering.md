@@ -22,7 +22,7 @@ Requirements engineering comprises the following:
 * **Requirements management:** is the process of scheduling, coordinating, and documenting the requirements engineering activities (that is, elicitation, analysis, specification, and verification).
 
 <p align="center">
-  <img src="images/requirements_new.png" width="700" height="398">
+  <img src="images/requirements.png" width="700" height="398">
   <span class="caption">
         <p align="center"><b>Fig. 1</b> Requirements engineering</p>
         </span>
