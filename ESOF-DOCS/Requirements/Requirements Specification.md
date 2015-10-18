@@ -91,3 +91,7 @@ Below there's a use case diagram to represent the actions that the user can perf
 </p>
 
 <!-- Diagrama de casos de uso, o que significa cada caso de uso -->
+
+<p align=right>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Index.md">Back to Index</a>
+</p>
