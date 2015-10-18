@@ -47,6 +47,12 @@ For that reason there are features, like the whiteboard, that were implemented i
 ##2.3. Critical Analysis
 
 <!-- Problemas que tivemos em fazer o levantamento de requesitos, Técnicas usadas e porque que não usamos outras -->
+As mentioned before, the requirements process in the BigBlueButton community is different from the usual process. There isn’t a client *per se*, but instead, the BBB goal is to deliver a  web conferencing system for online learning to a myriad of people, all with different necessities and purposes. Taking that into consideration, it’s easy to understand their different approach. This way, they are able to study the user's reactions and opinions of the new requirements. By being constantly supervising the forums they can make adjustments and respond to the different user’s necessities.    
+
+However, this process isn’t perfect. The obvious problem is that, as they don’t do the follow up with the user who proposed the new feature, they have no idea what the user idealized for it. Also, they have to wait until a beta testing is released to get feedback from the users and to know if the new release is in accordance with what they had in mind and expected.    
+
+Their **Road Map** is a way to cover the holes this process presents. Given that BigBlueButton was born in a university, they are well aware of the basic features expected from the users because, in the end, they are one of the target market.
+
 
 <p align=right>
   <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Index.md">Back to Index</a>
