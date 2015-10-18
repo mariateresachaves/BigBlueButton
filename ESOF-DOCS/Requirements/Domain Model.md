@@ -9,3 +9,22 @@ A Presenter may upload a file or use the default (whiteboard) and he has the pos
 Lastly a conference allows the users to communicate through a general or private chat platform and also use features like webcam sharing and audio.
 
 ![Domain Model](images/domainModel.png "Domain Model")
+
+##4.2. Constraints
+
+| Class   |      Constraint    |
+|----------|-------------|
+| ConferenceSession | `ConferenceSession.allInstances->isUnique{sessionID}` |
+| ConferenceSession |  `numParticipants <= 150`  |
+| ConferenceSession |  `numParticipants = User.count()`  |
+| Conference | `endTime > startTime` |
+| Message | `Message.allInstances->isUnique{messageID}` |
+| Option | `Option.allInstances->isUnique{optionID}` |
+| Option | `numOptions = Poll.options.count()` |
+| Poll | `Poll.allInstances->isUnique{pollID}` |
+| Presentation | `Presentation.allInstances->isUnique{presentationID}` |
+| User | `User.allInstances->isUnique{userID}` |
+| User | `presenterStatus = true implies StatusIcons = presenter` |
+
+
+
