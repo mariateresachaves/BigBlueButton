@@ -29,20 +29,20 @@ For that reason there are features, like the whiteboard, that were implemented i
 
 <!-- Tabela com os requisitos + características -->
 
-| Name   |      Description    |
-|----------|:-------------:|
-| Audio |  BBB should have audio for all users with no perceptual delay between them |
-| Presentation |  Full-screen mode of the presentation, which includes notifications for new chat messages or of people joining in or out  |
-| Whiteboard | For free drawings and annotations |
-| File uploading | Various file formats can be uploaded (though .pdf is preferable), including video and audio types |
-| Chat | Public and private chat |
-| Desktop sharing | The presenter can share his desktop, if the viewers are interested |
-| Polling | Various poll options like Yes/No, True/False, A/B/C/D or even custom ones |
-| Emotion Icons | Display various emotions towards the presentation, including raising the hand |
-| Different layouts | Various pre-set layouts for specific types of presentations, and also the possibility of customizing them |
-| Video | For webcam video chat |
-| Record and playback | It is possible to record a session for later playback and usage |
-| Synchronized playback of external media | In case the presenter uploads a video or audio file, every user should see and hear the file at the same time. It would also be controlled by the presenter (when he wants to start, pause or stop the video)
+| Identifier | Name   |      Description    |
+|:----------:|----------|-------------|
+| R1 | Audio |  BBB should have audio for all users with no perceptual delay between them |
+| R2 | Presentation |  Full-screen mode of the presentation, which includes notifications for new chat messages or of people joining in or out  |
+| R3 | Whiteboard | For free drawings and annotations |
+| R4 | File uploading | Various file formats can be uploaded (though .pdf is preferable), including video and audio types |
+| R5 | Chat | Public and private chat |
+| R6 | Desktop sharing | The presenter can share his desktop, if the viewers are interested |
+| R7 | Polling | Various poll options like Yes/No, True/False, A/B/C/D or even custom ones |
+| R8 | Emotion Icons | Display various emotions towards the presentation, including raising the hand |
+| R9 | Different layouts | Various pre-set layouts for specific types of presentations, and also the possibility of customizing them |
+| R10 | Video | For webcam video chat |
+| R11 | Record and playback | It is possible to record a session for later playback and usage |
+| R12 | Synchronized playback of external media | In case the presenter uploads a video or audio file, every user should see and hear the file at the same time. It would also be controlled by the presenter (when he wants to start, pause or stop the video)
 
 ##2.3. Critical Analysis
 
