@@ -14,3 +14,5 @@ In general, it comprises all the significant decisions about the organization of
 
 No site do BBB:
 http://docs.bigbluebutton.org/overview/architecture.html#overview
+
+http://www.sei.cmu.edu/architecture/index.cfm -> Bem documentado
