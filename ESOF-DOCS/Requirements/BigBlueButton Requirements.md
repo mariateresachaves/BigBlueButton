@@ -51,7 +51,7 @@ As mentioned before, the requirements process in the BigBlueButton community is 
 
 However, this process isn’t perfect. The obvious problem is that, as they don’t do the follow up with the user who proposed the new feature, they have no idea what the user idealized for it. Also, they have to wait until a beta testing is released to get feedback from the users and to know if the new release is in accordance with what they had in mind and expected.    
 
-Their **Road Map** is a way to cover the holes this process presents. Given that BigBlueButton was born in a university, they are well aware of the basic features expected from the users because, in the end, they are one of the target market.
+Their [**Road Map**](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Introduction.md#12-road-map) is a way to cover the holes this process presents. Given that BigBlueButton was born in a university, they are well aware of the basic features expected from the users because, in the end, they are one of the target market.
 
 In order to understand if the users were satisfied with BBB’s requirements management we posted on BBB user’s forum the following questions:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*As an user, if you presented an idea for a new feature and it was accepted by the development team, does the end result met your expectations? If not, what alterations would you suggest?*  
