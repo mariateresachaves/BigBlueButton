@@ -29,7 +29,7 @@ Requirements engineering comprises the following:
 </p>
 
 Requirements engineering is very complex because of the three roles involved in producing even a single requirement,
-the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem. This problem ir further complicated by the number and diversity of system users. In practice, any system stakeholder has needs and expectations, i.e. requirements, for the system.  The clear definition of the requirements is of vital importance because of their pervasive quality. They continuously affect the development and maintenace phases throughout a system's development. For example, in the testing phase, the requirements provide a quality statement in wich is possible to define the standard of correctness against which to test.
+the **user**, the **developer** (who will design and implement the system), and the **author** (who will document the requirements). Requirements address a fundamental communications problem. This problem is further complicated by the number and diversity of system users. In practice, any system stakeholder has needs and expectations, i.e. requirements, for the system.  The clear definition of the requirements is of vital importance because of their pervasive quality. They continuously affect the development and maintenace phases throughout a system's development. For example, in the testing phase, the requirements provide a quality statement in which is possible to define the standard of correctness against which to test.
 
 ##1.2. Techniques
 
@@ -39,7 +39,7 @@ In order to collect/discover their requirements there are useful **techniques** 
 
 * **Facilitated meetings (brainstorming, focus groups, etc.)**:
       * **Brainstorming** is a method of quickly generating many creative ideas from a group of people.
-      * **A focus group** is an interactive session with a carefully selected group of people designed to capitalize on the synergy of a group. The focus group report records of what was learned, including both agreements and disagreements among the participants.
+      * **A focus group** is an interactive session with a carefully selected group of people designed to capitalize on the synergy of a group. The focus group report records of what has been learned, including both agreements and disagreements among the participants.
 
 * **Surveys/Questionnaires:** Surveys allow you to collect information from many people in a relatively short period. A survey can be an effective way to collect quantitative information; however, writing the questions requires great skill and care to avoid ambiguity that could compromise the utility of the results.
 
@@ -58,13 +58,13 @@ In order to collect/discover their requirements there are useful **techniques** 
 ##1.3. Stakeholders
 
 The role of system stakeholder is played by any of the various people or systems involved in or affected by a system's development. This group includes:
-* **executives**: (who know the organization's business goals and constraints);
-* **end users** (who know how the products will be used);
-* **marketers** (who know the market demands);
-* **technical managers** (who know the available personnel);
-* **developers** (who know the available tools and technology). 
+* **executives**: (who knows the organization's business goals and constraints);
+* **end users** (who knows how the products will be used);
+* **marketers** (who knows the market demands);
+* **technical managers** (who knows the available personnel);
+* **developers** (who knows the available tools and technology). 
 
-The success of requirements engineering depends on the identification and solicitation of the appropriate community of stakeholders. Reconciling the diverse needs and expectations of the various system stakeholders necessitates tradeoffs,this means, decisions have to be made to sort out potentially conflicting requirements from different stakeholders.
+The success of requirements engineering depends on the identification and solicitation of the appropriate community of stakeholders. Reconciling the diverse needs and expectations of the various system stakeholders necessitates tradeoffs, this means, decisions have to be made to sort out potentially conflicting requirements from different stakeholders.
 
 ##1.4. Inappropriate requirements
 
