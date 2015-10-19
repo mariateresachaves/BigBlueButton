@@ -11,3 +11,6 @@ to each other and the environment, and the principles governing its design and e
 [IEEE Recommended Practice for Architectural Description of Software Intensive Systems(IEEE 1471-2000)]
  
 In general, it comprises all the significant decisions about the organization of a software system.   
+
+No site do BBB:
+http://docs.bigbluebutton.org/overview/architecture.html#overview
