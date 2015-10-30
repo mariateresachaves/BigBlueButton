@@ -2,7 +2,7 @@
 
 ###Table of Contents
 [1. Software Architecture](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#1-software-architecture)  
-&nbsp;&nbsp;&nbsp;&nbsp;[1.1. Description](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#11-description)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1.1. Overview](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#11-overview)  
 [2. BigBlueButton](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#2-bigbluebutton)  
 [3. Logical View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#3-logical_view)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1. UML Package Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#31-uml-package-diagram)  
