@@ -20,7 +20,7 @@ Software architecture is the process of building a structured solution of **what
 
 <br>
 
-In other words, the architecture will include how the system is separated in modules/packages, the way how they will interact with each other and everything the system interacts with, in order to be achieved the desired structured architecture. If this is fulfilled it's easier to change it when new requirements come up, unlike other architectures which are constantly in change due to design errors. To minimize the probability of falling into this error there are aspects as performance, reliability, scalability, testbility, maintainability and others (*Fig.2*) to ensure that the software system is well structured.
+In other words, the architecture will include how the system is separated in modules/packages, the way how they will interact with each other and everything the system interacts with, in order to be achieved the desired structured architecture. If this is fulfilled it's easier to change it when new requirements come up, unlike other architectures which are constantly in change due to design errors. To minimize the probability of falling into this error there are aspects as performance, security, safety, availability, maintainability and portability (*Fig.2*) to ensure that the software system is well structured.
 
 <p align="center">
   <img src="images/softwareArchitectureAspects.png" width="45%" height="45%">
@@ -28,6 +28,18 @@ In other words, the architecture will include how the system is separated in mod
         <p align="center"><b>Fig. 2</b> Software Architecture aspects</p>
         </span>
 </p>
+
+##1.2. 4+1 View Model
+
+###1.2.1. Logical View
+
+###1.2.2. Implementation View
+
+###1.2.3. Deployment View
+
+###1.2.4. Process View
+
+<!-- FOOTER -->
 
 <p align=center>
   <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md"><< Requirements</a>
