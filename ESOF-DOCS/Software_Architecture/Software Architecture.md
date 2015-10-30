@@ -12,7 +12,7 @@ As an house needs an architect, an important software development step is the so
 </p>
 
 <p align="center">
-  <img src="images/softwareArchitecture.png" width="45%" height="45%">
+  <img src="images/softwareArchitectureAspects.png" width="45%" height="45%">
   <span class="caption">
         <p align="center"><b>Fig. 2</b> Software Architecture aspects</p>
         </span>
