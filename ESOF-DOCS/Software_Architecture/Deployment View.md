@@ -21,3 +21,7 @@ Below is the deployment diagram for the BIgBlueButton project.
         <p align="center"><b>Fig. 1</b> - Deployment Diagram</p>
         </span>
 </p>
+
+<p align=right>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Index.md">Back to Index</a>
+</p>
