@@ -46,25 +46,45 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
   <p align="center">
     <img src="images/packageDiagram.png" width="30%" height="30%">
     <span class="caption">
-          <p align="center"><b>Fig. 3</b> 4+1 View Model</p>
+          <p align="center"><b>Fig. 4</b> Example of Logical View (UML package diagram)</p>
     </span>
   </p>
 
   * **Implementation View** - shows how the software is decomposed (into software components) for development;
    
-  
+  <p align="center">
+    <img src="images/componentDiagram.png" width="50%" height="50%">
+    <span class="caption">
+          <p align="center"><b>Fig. 5</b> Example of Implementation View (UML component diagram)</p>
+    </span>
+  </p>
 
   * **Deployment View** - shows the system hardware and how software components are distributed across the hardware nodes;
 
-  
+  <p align="center">
+    <img src="images/deploymentDiagram.png" width="50%" height="50%">
+    <span class="caption">
+          <p align="center"><b>Fig. 6</b> Example of Deployment View (UML deployment diagram)</p>
+    </span>
+  </p>
 
   * **Process View** - shows how, at run-time, the system is composed of interacting processes;
 
-  
+  <p align="center">
+    <img src="images/activityDiagram.png" width="50%" height="50%">
+    <span class="caption">
+          <p align="center"><b>Fig. 7</b> Example of Process View (UML activity diagram)</p>
+    </span>
+  </p>
 
   * **Use Case View (+1)** - Relates the other views.
 
-  
+  <p align="center">
+    <img src="images/useCaseDiagram.png" width="40%" height="40%">
+    <span class="caption">
+          <p align="center"><b>Fig. 7</b> Example of Process View (UML activity diagram)</p>
+    </span>
+  </p>
 
 <!-- FOOTER -->
 
