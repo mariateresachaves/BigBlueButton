@@ -31,6 +31,15 @@ In other words, the architecture will include how the system is separated in mod
 
 ##1.2. 4+1 View Model
 
+This model allow the various stakeholders to find what they want to know about the software architecture. Systems engineers approach it from the Physical view, then the Process view. End-users, customers, data specialists from the Logical view. Project managers, software configuration staff see it from the Development view.
+
+<p align="center">
+  <img src="images/4p1ViewModel.png" width="50%" height="50%">
+  <span class="caption">
+        <p align="center"><b>Fig. 2</b> Software Architecture aspects</p>
+        </span>
+</p>
+
 ###1.2.1. Logical View
 
 ###1.2.2. Implementation View
