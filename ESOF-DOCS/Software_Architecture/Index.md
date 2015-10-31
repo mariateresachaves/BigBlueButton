@@ -9,5 +9,6 @@
 [4. Implementation View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#4-implementation_view)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4.1. UML Components Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#31-uml-component-diagram)  
 [5. Deployment View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#5-deployment_view)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.1. UML Deployment Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#31-uml-deployment-diagram)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Deployment View Introduction](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#51-deployment-view-introduction)   
+&nbsp;&nbsp;&nbsp;&nbsp;[5.2. UML Deployment Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#52-uml-deployment-diagram)  
 [6. Process View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Process%20View.md#6-process_view)  
