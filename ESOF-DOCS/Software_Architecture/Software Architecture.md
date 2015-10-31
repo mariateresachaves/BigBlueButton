@@ -31,7 +31,7 @@ In other words, the architecture will include how the system is separated in mod
 
 ##1.2. 4+1 View Model
 
-This model allows the various [Stakeholders](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#13-stakeholders) to find what they want to know about the software architecture. Systems engineers approach it from the Physical view, then the Process view. End-users, customers, data specialists from the Logical view. Project managers, software configuration staff see it from the Development view.
+This model allows the various [Stakeholders](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#13-stakeholders) to find what they want to know about the software architecture. Systems engineers approach it from the Physical View, then the Process View. End-users, customers, data specialists from the Logical View. Project managers, software configuration staff see it from the Development View.
 
 <p align="center">
   <img src="images/4p1ViewModel.png" width="40%" height="40%">
@@ -40,7 +40,7 @@ This model allows the various [Stakeholders](https://github.com/mariateresachave
         </span>
 </p>
 
-As shown in the previous image (*Fig.3*), this model is composed by Logical View, Implementation View, Deployment View, Process View and Use Case View. Below there's a brief definition for each one of the views:  
+As shown in the previous image (*Fig.3*), this model is composed by Logical View, Implementation View, Deployment View, Process View and Use Case View. Below there's a brief definition for each one of the Views:  
   * **Logical View** - shows the key abstractions in the system as objects or object classes, or their packages;
 
   
