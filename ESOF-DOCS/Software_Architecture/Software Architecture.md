@@ -8,7 +8,7 @@ Software architecture is the process of building a structured solution of **what
   <img src="images/softwareArchitecture.png" width="35%" height="35%">
   <span class="caption">
         <p align="center"><b>Fig. 1</b> Software Architecture</p>
-        </span>
+  </span>
 </p>
 
 <br>
@@ -26,7 +26,7 @@ In other words, the architecture will include how the system is separated in mod
   <img src="images/softwareArchitectureAspects.png" width="45%" height="45%">
   <span class="caption">
         <p align="center"><b>Fig. 2</b> Software Architecture aspects</p>
-        </span>
+  </span>
 </p>
 
 ##1.2. 4+1 View Model
@@ -37,15 +37,21 @@ This model allows the various [Stakeholders](https://github.com/mariateresachave
   <img src="images/4p1ViewModel.png" width="40%" height="40%">
   <span class="caption">
         <p align="center"><b>Fig. 3</b> 4+1 View Model</p>
-        </span>
+  </span>
 </p>
 
 As shown in the previous image (*Fig.3*), this model is composed by Logical View, Implementation View, Deployment View, Process View and Use Case View. Below there's a brief definition for each one of the Views:  
   * **Logical View** - shows the key abstractions in the system as objects or object classes, or their packages;
 
-  
+  <p align="center">
+    <img src="images/packageDiagram.png" width="40%" height="40%">
+    <span class="caption">
+          <p align="center"><b>Fig. 3</b> 4+1 View Model</p>
+    </span>
+  </p>
 
   * **Implementation View** - shows how the software is decomposed (into software components) for development;
+   
   
 
   * **Deployment View** - shows the system hardware and how software components are distributed across the hardware nodes;
