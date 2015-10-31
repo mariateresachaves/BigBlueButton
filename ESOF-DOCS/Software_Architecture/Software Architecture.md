@@ -44,7 +44,7 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
   * **Logical View** - shows the key abstractions in the system as objects or object classes, or their packages;
 
   <p align="center">
-    <img src="images/packageDiagram.png" width="40%" height="40%">
+    <img src="images/packageDiagram.png" width="30%" height="30%">
     <span class="caption">
           <p align="center"><b>Fig. 3</b> 4+1 View Model</p>
     </span>
