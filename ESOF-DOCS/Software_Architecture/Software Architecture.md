@@ -82,7 +82,7 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
   <p align="center">
     <img src="images/useCaseDiagram.png" width="40%" height="40%">
     <span class="caption">
-          <p align="center"><b>Fig. 7</b> Example of Process View (UML activity diagram)</p>
+          <p align="center"><b>Fig. 7</b> Example of Use Case View (use case diagram)</p>
     </span>
   </p>
 
