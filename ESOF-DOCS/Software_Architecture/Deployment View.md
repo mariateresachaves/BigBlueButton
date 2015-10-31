@@ -1,7 +1,7 @@
 #5. Deployment View
 ##5.1 Deployment View Introduction
 
-The *deployment view* is used for describing the hardware components in which software components are deployed. Component and deployment diagrams are closely related: while the first ones describe the various components, deployment diagrams show how they are deployed in hardware.
+The **deployment view** is used for describing the hardware components in which software components are deployed. Component and deployment diagrams are closely related: while the first ones describe the various components, deployment diagrams show how they are deployed in hardware.
 
 The main purposes of deployment diagrams are:
 
