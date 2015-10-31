@@ -34,19 +34,31 @@ In other words, the architecture will include how the system is separated in mod
 This model allow the various stakeholders to find what they want to know about the software architecture. Systems engineers approach it from the Physical view, then the Process view. End-users, customers, data specialists from the Logical view. Project managers, software configuration staff see it from the Development view.
 
 <p align="center">
-  <img src="images/4p1ViewModel.png" width="50%" height="50%">
+  <img src="images/4p1ViewModel.png" width="40%" height="40%">
   <span class="caption">
-        <p align="center"><b>Fig. 2</b> Software Architecture aspects</p>
+        <p align="center"><b>Fig. 3</b> 4+1 View Model</p>
         </span>
 </p>
 
-###1.2.1. Logical View
+As shown in the previous image (*Fig.3*), this model is composed by Logical View, Implementation View, Deployment View, Process View and Use Case View. Below there's a brief definition for each one of the views:  
+  * **Logical View** - shows the key abstractions in the system as objects or object classes, or their packages;
 
-###1.2.2. Implementation View
+  
 
-###1.2.3. Deployment View
+  * **Implementation View** - shows how the software is decomposed (into software components) for development;
+  
 
-###1.2.4. Process View
+  * **Deployment View** - shows the system hardware and how software components are distributed across the hardware nodes;
+
+  
+
+  * **Process View** - shows how, at run-time, the system is composed of interacting processes;
+
+  
+
+  * **Use Case View (+1)** - Relates the other views.
+
+  
 
 <!-- FOOTER -->
 
