@@ -6,7 +6,6 @@ The **Implementation View** consists  in one or more **Component Diagrams** repr
 The main purposes of component diagrams are:
 
 * Visualize the components of a system.
-
 * Describe the organization and relationships of the components.
 
 ##4.2 UML Component Diagram
