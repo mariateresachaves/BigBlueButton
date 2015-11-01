@@ -7,7 +7,7 @@
 [3. Logical View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#3-logical_view)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1. UML Package Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#31-uml-package-diagram)  
 [4. Implementation View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#4-implementation_view)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.1 Implementation View Introduction](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#41-implementation-view-introduction)   
+&nbsp;&nbsp;&nbsp;&nbsp;[4.1. Implementation View Introduction](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#41-implementation-view-introduction)   
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2. UML Components Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Implementation%20View.md#31-uml-component-diagram)  
 [5. Deployment View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#5-deployment_view)  
 &nbsp;&nbsp;&nbsp;&nbsp;[5.1. Deployment View Introduction](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Deployment%20View.md#51-deployment-view-introduction)   
