@@ -10,6 +10,13 @@ The main purposes of component diagrams are:
 
 ##4.2 UML Component Diagram
 
+<p align="center">
+  <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/images/component_diagram_1.png">
+  <span class="caption">
+        <p align="center"><b>Fig. 1</b> - Component Diagram</p>
+        </span>
+</p>
+
 <p align=center>
   <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#3-logical_view"><< Logical View</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
