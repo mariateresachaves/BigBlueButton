@@ -15,6 +15,8 @@ The purpose of deployment diagrams can be summarized as:
 
 Below is the deployment diagram for the BIgBlueButton project.
 
+
+
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/images/Deployment%20View.png">
   <span class="caption">
