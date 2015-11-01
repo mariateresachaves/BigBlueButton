@@ -3,7 +3,7 @@
 
 The **deployment view** is used for describing the hardware components in which software components are deployed. Component and deployment diagrams are closely related: while the first ones describe the various components, deployment diagrams show how they are deployed in hardware.
 
-The main purposes of deployment diagrams are:
+The purpose of deployment diagrams can be summarized as:
 
 * Visualize hardware topology of a system
 * Describe the hardware components used to deploy software components
