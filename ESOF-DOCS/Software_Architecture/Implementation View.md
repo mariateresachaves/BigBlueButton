@@ -3,8 +3,7 @@
 
 The **Implementation View** consists  in one or more **Component Diagrams** representing the organization of the components of the system. Each diagram is used to model physical aspects of the system like executables, libraries, files or documents, by showing software components and the dependencies among them. 
 
-
-So the purpose of the component diagram can be summarized as:
+The main purposes of component diagrams are:
 
 * Visualize the components of a system.
 
