@@ -29,7 +29,7 @@ In other words, the architecture will include how the system is separated in mod
   </span>
 </p>
 
-##1.2. 4+1 View Model
+##1.2. 4 + 1 View Model
 
 This model allows the various [Stakeholders](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#13-stakeholders) to find what they want to know about the software architecture. Systems engineers approach it from the Physical View, then the Process View. End-users, customers, data specialists from the Logical View. Project managers, software configuration staff see it from the Development View.
 
