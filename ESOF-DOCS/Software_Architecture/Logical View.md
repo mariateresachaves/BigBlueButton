@@ -9,7 +9,7 @@ The main purposes of **Package Diagrams** are:
   *  represent the different layers to illustrate the layered architecture
   *  indicate the communication mechanism between layers
 
-##3.2. UML Component Diagram
+##3.2. UML Package Diagram
 
 <!-- to be continued... -->
 
