@@ -23,7 +23,7 @@ To create thumbnails of the presentations, BBB uses tools like <a href="http://w
 
 Another important tool is <a href="http://activemq.apache.org/"> **ActiveMQ** </a>, a messaging server that, through Java scripts, sends information about converting status with **bbb-web** and **bbb-aps**. It allows to track errors and to communicate between the two components.
 
-##2.3. VoIP and Asteriks
+##2.3. VoIP and Asterik
 
 The user can interact with the system also through <a href="https://en.wikipedia.org/wiki/Softphone/">  **softphone** </a>  using  <a href="https://en.wikipedia.org/wiki/Voice_over_IP/">  **VoIP** </a> or a regular phone line via <a href="https://en.wikipedia.org/wiki/Public_switched_telephone_network">  **PSTN** </a>. A voice signal is sent and it's receive by <a href="http://www.asterisk.org/">  **Asterik** </a> which is a free open-source communication server that allows to manipulate voice data. In the BBB software, the voice is passetd to <a href="https://blogs.reucon.com/asterisk-java/">  **Asterik-Java** </a> (bbb-web) and it's mostly used to check if the user is muted. If not, it sends the data to **bbb-apps** and with **Asterik-Java** the information is sent to the browser so the other users can listen to it.
 
