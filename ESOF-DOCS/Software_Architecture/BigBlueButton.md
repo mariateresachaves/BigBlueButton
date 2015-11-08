@@ -16,8 +16,8 @@ As mentioned in the previous section, when the user communicates wih BBB interfa
 
 **bbb-web** is used for every type of data except audio or video. For example, is used to schedule conferences, login/logout, retrivieng/saving data to the database and upload data.
 
-**bbb-web** is a **Grails** application which is a **Java**  based web-app framework.
-**bbb-web** stants on top a **Tomcat** servelet container. It uses **SWFtools** to convert data, form example to convert pdf or png presentations that the presenter uploads into **swf** format, otherwise the users won't be able to see the presentations. The action in <a href="http://bigbluebutton.org/sites/all/videos/join/index.html"> **Video** </a> where the user uploads a presentation and is is seen on the website is done by **bbb-web** that receives a png or pdf file and converts it to a **flash swf** format.
+**bbb-web** is a <a href="https://grails.org/"> **Grails** </a> application which is a **Java**  based web-app framework.
+**bbb-web** stants on top a <a href="http://tomcat.apache.org/"> **Tomcat** </a> servelet container. It uses **SWFtools** to convert data, form example to convert pdf or png presentations that the presenter uploads into **swf** format, otherwise the users won't be able to see the presentations. The action in <a href="http://bigbluebutton.org/sites/all/videos/join/index.html"> **Video** </a> where the user uploads a presentation and is is seen on the website is done by **bbb-web** that receives a png or pdf file and converts it to a **flash swf** format.
 
 To create thumbnails of the presentations, BBB uses tools like <a href="http://www.imagemagick.org/script/index.php"> **Imagemagic** </a> and <a href="https://en.wikipedia.org/wiki/Ghostscript"> **GhostScript** </a>. **Imagemagic** also plays an important role substituting **SwiftTools** in case this fails to convert a presentation. 
 
