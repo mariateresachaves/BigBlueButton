@@ -29,7 +29,7 @@ The user can interact with the system also through <a href="https://en.wikipedia
 
 ##2.4. red5
 
-**bbb-apps** stands on top of the <a href="https://github.com/Red5"> **red5** </a> media server that suports live video streaming. The advantage of **red5** is that it does not require any special installations into the client machine (except **Flash Player**). Another advantage is that **red5** provides a library of applications that are ready to use. BigBlueButton uses **oflaDemo** to stream video which is a **red5** add-on.
+**bbb-apps** stands on top of the <a href="https://github.com/Red5"> **red5** </a> media server that suports live video streaming. The advantage of **red5** is that it does not require any special installations into the client machine (except **Flash Player**). Another advantage is that **red5** provides a library of applications that are ready to use. For example, BigBlueButton uses **oflaDemo** to stream video which is a **red5** add-on.
 
 ##2.5. bbb-apps
 ------Continuar-------------
