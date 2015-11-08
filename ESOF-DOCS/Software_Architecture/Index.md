@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1. Overview](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#11-overview)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. 4+1 View Model](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#12-4--1-view-model)  
 [2. BigBlueButton](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#2-bigbluebutton-architecture)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1. ##2.1 User Interaction with the System (RTMP, HTTP, NGNIX)](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#21-user-interaction-with-the-system-rtmp-http-ngnix)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1. User Interaction with the System (RTMP, HTTP, NGNIX)](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#21-user-interaction-with-the-system-rtmp-http-ngnix)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2. bbb-web](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#22-bbb-web)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3. VoIP and Asterik](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#23-voip-and-asterik)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4. red5](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#24-red5)  
