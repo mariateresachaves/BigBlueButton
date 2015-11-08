@@ -4,7 +4,7 @@ BigBlueButton is a complex system, that consist of many different components tha
 
 ##2.1 User Interaction with the System (RTMP, HTTP, NGNIX)
 
-The user interacts with the system through a web browser with **Flash Player** pre-installed. The BBB's interface is also done in Flash. The architects of BBB probably chose it because is one of those languages that allows very easly to send/receive audio and video streams.
+The user interacts with the system through a web browser with **Flash Player** pre-installed. The BBB's interface is also done in Flash. The architects of BBB probably chose it because is one of those languages that allows very easily to send/receive audio and video streams.
 
 When the user communicates with the system, this sends the request to the web server using <a href="https://en.wikipedia.org/wiki/Real_Time_Messaging_Protocol"> **RTMP** </a> or <a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol"> **HTTP** </a> protocols. In the BBB system, **RTMP** is used to tranfer the video, audio and data using **Flash Player** from the user to the web server.  **HTTP** encapsulates the data in **RTMP** and tunnels it to the web server using porto 80. On the other end is a web server called <a href="https://en.wikipedia.org/wiki/Nginx"> **Nginx** </a>.
 
