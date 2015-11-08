@@ -2,7 +2,7 @@
 
 BigBlueButton is a complex system, that consist of many different components that are working together as one big network. 
 
-##2.1 User Interaction with the System (RTMP, HTTP, NGNIX)
+##2.1 User Interaction with the System (RTMP, HTTP, NGINX)
 
 The user interacts with the system through a web browser with **Flash Player** pre-installed. The BBB's interface is also done in Flash. The architects of BBB probably chose it because is one of those languages that allows very easily to send/receive audio and video streams.
 
@@ -10,7 +10,7 @@ When the user communicates with the system, this sends the request to the web se
 
 
 
-**Nginx** plays a very important role as it sends the information received from the user to one of the two proxies: **bbb-web** or **bbb-aps**. The mission of **Nginx** is to guide **RTMP** requests to bbb-aps and **HHTP** to **bbb-web**.
+**Nginx** plays a very important role as it sends the information received from the user to one of the two proxies: **bbb-web** or **bbb-aps**. The mission of **Nginx** is to guide **RTMP** requests to bbb-aps and **HTTP** to **bbb-web**.
 
 ##2.2. bbb-web
 
