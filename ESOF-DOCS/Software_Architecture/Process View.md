@@ -15,7 +15,7 @@ There are several involved servers for fulfilling the requests from the **Client
 </p>
 
 
-The coordinator is the **Management Server** (MS) and The MS server’s message exchange with the BBB server should be either through BigBlueButton’s API (e.g. getMeeting, create and join meeting API calls) or by using Red5’s Remote Shared Objects (e.g. the “meeting destroyed” message).
+The coordinator is the **Management Server** (MS). The MS server’s message exchange with the BBB server should be either through BigBlueButton’s API (e.g. getMeeting, create and join meeting API calls) or by using Red5’s Remote Shared Objects (e.g. the “meeting destroyed” message).
 
 
 <p align=center>
