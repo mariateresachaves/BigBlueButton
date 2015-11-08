@@ -10,6 +10,7 @@ The main purposes of component diagrams are:
 
 ##4.2 UML Component Diagram
 
+As stated in section 2, the **Client** is a Flash application which runs inside the the user's browser and connects to Red5 using RTMP  or HTTP protocols. The last one tunnels the data to <a href="https://en.wikipedia.org/wiki/Nginx"> **Nginx** </a>.  **Red5** is the media server that suports live video streaming and works as an intermediate between the **client** and **apps-akka** 
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/images/component_diagram_1.png">
   <span class="caption">
