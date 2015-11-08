@@ -32,7 +32,21 @@ The user can interact with the system also through <a href="https://en.wikipedia
 **bbb-apps** stands on top of the <a href="https://github.com/Red5"> **red5** </a> media server that suports live video streaming. The advantage of **red5** is that it does not require any special installations into the client machine (except **Flash Player**). Another advantage is that **red5** provides a library of applications that are ready to use. For example, BigBlueButton uses **oflaDemo** to stream video which is a **red5** add-on.
 
 ##2.5. bbb-apps
-------Continuar-------------
+
+The **bbb-apps** is the container of applications and its main tasks are:
+* to load applications upon client requests;
+* to notify the clients about any changes that are happening within the requested applications;
+* handle the connection between the client and the applications.
+
+There are 4 applications provided by BBB, with each of the applications being modules to the main BBB plataform:
+
+* **Chat**;
+* **Voice**, connected to the **Asterik** server;
+* **Participants**;
+* **Presentation**, receives information from **ActiveMQ** about the success/failure  in converting slides in pdf or png formats to swf.
+
+The BBB application uses these applications upon the client request. Threre is also an archive that can record any events inside of the applications, allowing to playback anything that is recorded in the archive.
+
 
 
 <p align=center>
