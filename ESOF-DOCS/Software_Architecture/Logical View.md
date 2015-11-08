@@ -18,7 +18,7 @@ This project is designed in a very modular way, i.e., it relies on many third pa
 <p align="center">
   <img src="images/verticalDecomposition.png" width="60%" height="60%">
   <span class="caption">
-        <p align="center"><b>Fig. 1</b> Vertical Decomposition</p>
+        <p align="center"><b>Fig. 9</b> Vertical Decomposition</p>
   </span>
 </p>
 
@@ -29,7 +29,7 @@ In addition to this, we have the **horizontal decomposition** which complements 
 <p align="center">
   <img src="images/technicalDecomposition.png" width="60%" height="60%">
   <span class="caption">
-        <p align="center"><b>Fig. 2</b> Horizontal Decomposition</p>
+        <p align="center"><b>Fig. 10</b> Horizontal Decomposition</p>
   </span>
 </p>
 
@@ -40,7 +40,7 @@ To finish the logical view we have the **matricial decomposition**.
 <p align="center">
   <img src="images/matricialDecomposition.png">
   <span class="caption">
-        <p align="center"><b>Fig. 3</b> Matricial Decomposition</p>
+        <p align="center"><b>Fig. 11</b> Matricial Decomposition</p>
   </span>
 </p>
 
