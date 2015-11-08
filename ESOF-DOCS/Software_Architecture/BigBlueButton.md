@@ -2,7 +2,7 @@
 
 BigBlueButton is a complex system, that consist of many different components that are working together as one big network. 
 
-##2.1 User Interaction With System (RTMP, HTTP, NGNIX)
+##2.1 User Interaction with the System (RTMP, HTTP, NGNIX)
 
 The user interacts with the system through a web browser with **Flash Player** pre-installed. The BBB's interface is also done in Flash. The architects of BBB probably chose it because is one of those languages that allows very easly to send/receive audio and video streams.
 
