@@ -1,7 +1,9 @@
 #2. BigBlueButton Architecture
 
 BigBlueButton is a complex system, that consist of many different components that are working together as one big network. 
+
 ##2.1 User Interaction With System (RTMP, HTTP, NGNIX)
+
 The user interacts with the system through a web browser with **Flash Player** pre-installed. The BBB's interface is also done in Flash. The architects of BBB probably chose it because is one of those languages that allows very easly to send/receive audio and video streams.
 
 When the user communicates with the system, this sends the request to the web server using **RTMP** or **HTTP** protocols. In the BBB system, **RTMP** is used to tranfer the video, audio and data using **Flash Player** from the user to the web server.  **HTTP** encapsulates the data in **RTMP** and tunnels it to the web server using porto 80. On the other end is a web server called **Nginx**.
@@ -22,9 +24,12 @@ To create thumbnails of the presentations, BBB uses tools like <a href="http://w
 Another important tool is <a href="http://activemq.apache.org/"> **ActiveMQ** </a>, a messaging server that, through Java scripts, sends information about converting status with **bbb-web** and **bbb-aps**. It allows to track errors and to communicate between the two components.
 
 ##2.3. VoIP and Asteriks
+
 The user can interact with the system also through <a href="https://en.wikipedia.org/wiki/Softphone/">  **softphone** </a>  using  <a href="https://en.wikipedia.org/wiki/Voice_over_IP/">  **VoIP** </a> or a regular phone line via <a href="https://en.wikipedia.org/wiki/Public_switched_telephone_network">  **PSTN** </a>. A voice signal is sent and it's receive by <a href="http://www.asterisk.org/">  **Asterik** </a> which is a free open-source communication server that allows to manipulate voice data. In the BBB software, the voice is passetd to <a href="https://blogs.reucon.com/asterisk-java/">  **Asterik-Java** </a> (bbb-web) and it's mostly used to check if the user is muted. If not, it sends the data to **bbb-apps** and with **Asterik-Java** the information is sent to the browser so the other users can listen to it.
 
 ##2.4. red5
+
+**bbb-apps** stands on top of the <a href="https://github.com/Red5"> **red5** </a> media server that suports live video streaming. The advantage of **red5** is that it does not require any special installations into the client machine (except **Flash Player**). Another advantage is that **red5** provides a library of applications that are ready to use. BigBlueButton uses **oflaDemo** to stream video which is a **red5** add-on.
 
 ##2.5. bbb-apps
 ------Continuar-------------
