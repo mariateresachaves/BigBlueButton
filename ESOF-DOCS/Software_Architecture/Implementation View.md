@@ -15,7 +15,7 @@ As stated in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/ma
 <p align="center">
   <img src="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/images/component_diagram_1.png">
   <span class="caption">
-        <p align="center"><b>Fig. 1</b> - Component Diagram</p>
+        <p align="center"><b>Fig. 12</b> - Component Diagram</p>
         </span>
 </p>
 
