@@ -2,6 +2,7 @@
 https://code.google.com/p/bigbluebutton/wiki/StressTesting    
 https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing    
 https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM    --> resultado test stressing
+http://users.ece.cmu.edu/~koopman/des_s99/sw_testing/#reference 
 
 https://github.com/bigbluebutton/bigbluebutton/issues/2878 -> bug report: se escreverem algo entre aspas ("") não aparece no chat
 
