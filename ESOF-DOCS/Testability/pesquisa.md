@@ -3,6 +3,8 @@ https://code.google.com/p/bigbluebutton/wiki/StressTesting
 https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing    
 https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM    --> resultado test stressing
 
+https://github.com/bigbluebutton/bigbluebutton/issues/2878 -> bug report: se escreverem algo entre aspas ("") não aparece no chat
+
 #Unit testing
 Unit Testing the Mobile Client
 With the mobile client's development coming close to completion, the importance of unit testing is becoming increasingly important. Though not in the spirit of test driven development, the unit tests are being written after the core application. See the following link for general information about unit testing, specific information regarding the framework we are using to unit test the mobile client, and information about the current state of the coverage of the unit tests.
