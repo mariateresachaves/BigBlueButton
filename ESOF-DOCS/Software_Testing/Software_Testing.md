@@ -12,7 +12,7 @@ The terms Verification and Validation are commonly used in software engineering 
 **Validation** is the process of evaluating software during or at the end of the development process to determine whether it satisfies specified business requirements. Its **aim** is to ensure that the product actually meets the user’s needs, and that the specifications were correct in the first place. In other words, to demonstrate that the product fulfills its intended use when placed in its intended environment. The **evalution** item is the actual product/software.
 
 <p align="center">
-  <img src="images/VandVtoolbox.jpg" width="35%" height="35%">
+  <img src="images/VandVtoolbox.jpg" width="50%" height="50%">
   <span class="caption">
         <p align="center"><b>Fig. 1</b> Software Testing</p>
   </span>
