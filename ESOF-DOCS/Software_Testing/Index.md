@@ -8,4 +8,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1. User Interaction with the System (RTMP, HTTP, NGNIX)](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#21-user-interaction-with-the-system-rtmp-http-ngnix)  
 [16. Analysis of test statistics]
 
-[17.Bug Report Solving]
+[17.Bug Report Solving](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Bug_Report_Solving.md#17-bug-report-solving)
