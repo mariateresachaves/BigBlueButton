@@ -1,4 +1,3 @@
-
 1) Degree of Testability of the software program
 Topics: Discuss how 'testable' is the program. Discuss how to improve the testability of software components.
 
