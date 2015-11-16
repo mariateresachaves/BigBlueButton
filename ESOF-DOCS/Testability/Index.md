@@ -1,7 +1,7 @@
-##Software Architecture
+##Software Testability
 
 ###Table of Contents
-[1. Software Architecture](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#1-software-architecture)  
+[1. Software Testability](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#1-software-architecture)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1. Overview](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#11-overview)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. 4+1 View Model](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#12-4--1-view-model)  
 [2. BigBlueButton](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#2-bigbluebutton-architecture)  
