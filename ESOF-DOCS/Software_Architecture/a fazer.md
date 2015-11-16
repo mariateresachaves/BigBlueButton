@@ -1,3 +1,5 @@
+ADICIONAR PADRÕES DE ARQUITECTURA
+
 4+1 view model of software architecture (slides)
 
  UML package diagrams  
