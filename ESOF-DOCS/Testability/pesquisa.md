@@ -1,6 +1,7 @@
 #LINKS:
 https://code.google.com/p/bigbluebutton/wiki/StressTesting    
-https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing
+https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing    
+https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM    --> resultado test stressing
 
 #Unit testing
 Unit Testing the Mobile Client
