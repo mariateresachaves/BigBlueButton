@@ -57,6 +57,6 @@
 [13. Process View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Process%20View.md#6-process_view)    
 
 
-####Software Testability
-[14. Software Testability](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Testability/Software_Testability.md#1-software-testability)  
+####Software Testing
+[14. Software Testing](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Testability/Software_Testability.md#1-software-testability)  
 &nbsp;&nbsp;&nbsp;&nbsp;[14.1. Overview](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Testability/Software_Testability.md#11-overview)
