@@ -9,6 +9,7 @@ There are many testing methods and testing techniques, serving multiple purposes
 * performance testing; 
 * reliability testing.
 * security testing.    
+
 Classified by **life-cycle phase**, software testing can be classified into the following categories: 
 * requirements phase testing;
 * design phase testing;
@@ -17,6 +18,7 @@ Classified by **life-cycle phase**, software testing can be classified into the 
 * installation phase testing;
 * acceptance testing;
 * maintenance testing.    
+
 By **scope**, software testing can be categorized as follows:
 * unit testing;
 * component testing;
