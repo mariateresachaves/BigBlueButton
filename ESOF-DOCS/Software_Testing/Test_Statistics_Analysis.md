@@ -7,6 +7,8 @@ One of the important tests is the **stress test**, which consists in having an i
 <p align="center">
   <img src="images/stress_test.png" width="80%" height="80%">
   <span class="caption">
-        <p align="center"><b>Fig. 2</b>Results of a stress test</p>
+        <p align="center"><b>Fig. 2</b> Results of an audio stress test</p>
   </span>
 </p>
+
+In this test, the server was getting more and more users using the audio capabilities of the application, until it got overloaded when it reached about 80 users, moment where the audio started degrading. The number of users then dropped to 60, and the audio quality was good, once again. Some users were then asked to turn on their webcams, but the server got very little additional load, **COMENTARIO, AJUDA AQUI** maintaining the audio with a good quality. Users were then asked to use desktop sharing, which caused a crash of the application, thus creating another issue open for investigation.
