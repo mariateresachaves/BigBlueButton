@@ -4,6 +4,10 @@ https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing
 https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM    --> resultado test stressing
 http://users.ece.cmu.edu/~koopman/des_s99/sw_testing/#reference 
 
+Ajuda para instalar BBB:
+https://www.youtube.com/watch?v=XTfHqnXingQ
+http://docs.bigbluebutton.org/1.0/10install.html
+
 https://github.com/bigbluebutton/bigbluebutton/issues/2878 -> bug report: se escreverem algo entre aspas ("") não aparece no chat
 
 #Unit testing
