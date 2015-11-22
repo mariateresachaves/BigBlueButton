@@ -1,8 +1,8 @@
 #3. Test Statistics Analysis
 
-BigBlueButton's testing phase is extensive, and one of the core development parts of the project. In this section we'll list some of the testing methods used by BigBlueButton's developers.
+BigBlueButton's testing phase is extensive, and one of the core development parts of the project. The developers of BigBlueButton focus their testing on 3 groups: **unit testing**, **integration testing** and **stress testing**.
 
-One of the important tests is the **stress test**, which consists in having an increasingly large number of users logging in the application and using it to see what is the server response to it. One of these tests results is shown in Fig.2
+The main focus of BigBlueButton's development team are the **stress tests**, which consists in having an increasingly large number of users logging in the application and using it to see what is the server response to it. Since BigBlueButton consists of a web-conferencing platform, many users will be logged in at the same time in the same room, using all the capabilities of the software simultaneously and it's imperative that the software can handle these situations.  One of these tests results is shown in Fig.2, a graph showing the CPU usage along the time.
 
 <p align="center">
   <img src="images/stress_test.png" width="80%" height="80%">
