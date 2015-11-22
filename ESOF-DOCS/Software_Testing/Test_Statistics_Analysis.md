@@ -29,3 +29,5 @@ In Fig. 3, we can see a table showing some of the already tested modules in BigB
         <p align="center"><b>Fig. 3</b> Different components tested</p>
   </span>
 </p>
+
+Lastly, in the **integration tests** developers should have a complete test suite to verify stability and conformance to documentation. Unfortunately, we didn't find any results concerning integration tests, other than what is shown here.
