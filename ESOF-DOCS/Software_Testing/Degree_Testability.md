@@ -52,13 +52,33 @@ A demonstration of this kind of test is available in the following video.
 
 Based on the research made on the github repository and subsequent folders, forums and BBBs documentation we arrived to the following conclusions:
 
- * BigBlueButton is **testable on certain modules**, however these tests are not so different from each other (i.e. they are mostly based on unit testing), thus not ensuring other situations which can cause malfunction  
+ * BigBlueButton is **testable on certain modules**, however these tests are not so different from each other (i.e. they are mostly based on unit testing), thus not ensuring other situations which can cause malfunction   
  
  * Some folders are empty or not even exist, thus concluding that **some tests are not yet implemented**  
+
+ * To test how the system behaves with an unexpected number of users the developers make a **stress test**, which is an important issue in a web conferencing system    
+  * **Controllable**, since it's possible to check the number of active users
+  * **Observable**, since it's shown the information about the system load in the command line  
+  * **Isolable**, since it has no dependency of other modules  
+  * **Separated**, since the goal is just to send requests to the server  
+  * **Understandable**, since it's documented and easy to understand
+  * **Heterogeneous**, since it works in different technologies
  
  * Although they use one **integration test** it is not enough, since there's no feedback about how the components will interact with each other when they are all together  
+  * **Controllable**, since the platform is designed in certain modules and layers, and therefore the current component state is controlled  
+  * **Observable**, since the process is shown on the command line  
+  * **Isolable**, however it depends on the module which is being tested  
+  * **Separated**, since it's divided in different modules each one with the specific end  
+  * **Not understandable**, since it's quite confusing to understand in spite of being documented
+  * **Heterogeneous**, since it works in different technologies
  
- * Concerning the chat messages, if their format eventually changes the **unit tests** will have to be redesigned or else they will fail, so this module is not that testable as it should be  
+ * Concerning the chat messages, if their format eventually changes the **unit tests** will have to be redesigned or else they will fail, so this module is not that testable as it should be    
+  * **Controllable**, since the message can be traced and its content is controlled
+  * **Observable**, since the message content can be shown  
+  * **Isolable**, since the chat has no dependency of other modules  
+  * **Separated**, since the goal is to send a message from an user to another user  
+  * **Understandable**, since it's documented and easy to understand
+  * **Heterogeneous**, since it works in different technologies
 
  * There are no **system tests**, which brings limitations concerning different environments  
 
@@ -66,18 +86,4 @@ Based on the research made on the github repository and subsequent folders, foru
 
  * Since there is no feedback from customers, the developers don't mind implementing the **acceptance tests**
 
-<!-- 
-How to improve the testability of software components
-
-Controllability: The degree to which it is possible to control the state of the component under test (CUT) as required for testing.
-
-Observability: The degree to which it is possible to observe (intermediate and final) test results.
-
-Isolateability: The degree to which the component under test (CUT) can be tested in isolation.
-
-Separation of concerns: The degree to which the component under test has a single, well defined responsibility.
-
-Understandability: The degree to which the component under test is documented or self-explaining.
-
-Heterogeneity: The degree to which the use of diverse technologies requires to use diverse test methods and tools in parallel. -->
-
+##15.3. How to improve BigBlueButton testability
