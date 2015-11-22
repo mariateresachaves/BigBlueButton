@@ -13,7 +13,7 @@ The main focus of BigBlueButton's development team are the **stress tests**, whi
 
 In this test, the server was getting more and more users using the audio capabilities of the application, until it got overloaded when it reached about 80 users, moment where the audio started degrading, with CPU reaching 90% of it's processing power. The number of users then dropped to 60, and the audio quality was good, once again. Some users were then asked to turn on their webcams, but the CPU got very little additional load, maintaining the audio with a good quality. Users were then asked to use desktop sharing, which caused a crash of the application, thus creating another issue open for investigation.
 
-Other focus in the testing phase is the **unit testing**. The developer team adds unit tests to the core modules (voice, video, chat, presentation, and desktop sharing) to verify their functionality, and follow these guidelines:
+Other focus in the testing phase is the **unit testing**. Contrary to the spirit of test driven development, the unit tests are being written **after** the core application. The developer team adds unit tests to the core modules (voice, video, chat, presentation, and desktop sharing) to verify their functionality, and follow these guidelines:
 
 * Don't test languages or frameworks. If a developer is using a library or framework and the documentation tells the behavior of that class or function, then it shouldn't be tested, as it is a bug in that library and not in the application;
 * Don't test simple "getters" and "setters" functions;
@@ -21,7 +21,7 @@ Other focus in the testing phase is the **unit testing**. The developer team add
 * Each special case deserves a unit test. Generally, each way a function can possibly be ended, adds one more unit test to that function;
 * Each event that gets dispatched adds one more unit test.
 
-Though not in the spirit of test driven development, the unit tests are being written **after** the core application.
+In Fig. 3, we can see a table showing some of the already tested modules in BigBlueButton.
 
 <p align="center">
   <img src="images/Unit_tests.png" width="90%" height="90%">
