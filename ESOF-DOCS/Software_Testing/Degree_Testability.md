@@ -52,7 +52,7 @@ A demonstration of this kind of test is available in the following video.
 
 Based on the research made on the github repository and subsequent folders, forums and BBBs documentation we arrived to the following conclusions:
 
- * BigBlueButton is testable on certain modules, however these tests are not so different from each other (i.e. they are mostly based on unit testing), thus not ensuring other situations which can cause malfunction  
+ * BigBlueButton is **testable on certain modules**, however these tests are not so different from each other (i.e. they are mostly based on unit testing), thus not ensuring other situations which can cause malfunction  
  
  * Some folders are empty or not even exist, thus concluding that **some tests are not yet implemented**  
  
