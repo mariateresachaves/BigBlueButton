@@ -21,11 +21,15 @@ Video about stress test the server -> https://www.youtube.com/watch?v=Av8a0gB-Y3
 
 -> http://e-standards.flexiblelearning.net.au/research/funded_projects/emerging_technology_trials/2012/big_blue_button.php
 
-Ajuda para instalar BBB:
-https://www.youtube.com/watch?v=XTfHqnXingQ
-http://docs.bigbluebutton.org/1.0/10install.html
-
 https://github.com/bigbluebutton/bigbluebutton/issues/2878 -> bug report: se escreverem algo entre aspas ("") não aparece no chat
+
+Codigo com testes
+https://github.com/mariateresachaves/bigbluebutton/blob/master/bigbluebutton-web/test/unit/org/bigbluebutton/api/ParamsProcessorUtilTest.java
+https://github.com/mariateresachaves/bigbluebutton/blob/master/deskshare/app/src/test/java/org/bigbluebutton/deskshare/server/recorder/FileRecorderTest.java
+https://github.com/mariateresachaves/bigbluebutton/blob/master/labs/api/recordings/test/testc.coffee
+https://github.com/mariateresachaves/bigbluebutton/blob/master/labs/api/recordings/test/routetests.coffee
+https://github.com/mariateresachaves/bigbluebutton/blob/master/labs/api/recordings/test/utiltests.coffee
+https://github.com/mariateresachaves/bigbluebutton/blob/master/labs/api/meetings/test/routetests.coffee
 
 #Unit testing
 Unit Testing the Mobile Client
