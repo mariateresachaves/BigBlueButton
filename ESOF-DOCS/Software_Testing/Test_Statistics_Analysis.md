@@ -9,7 +9,7 @@ The main focus of BigBlueButton's development team are the **stress tests**, whi
 <p align="center">
   <img src="images/stress_test.png" width="80%" height="80%">
   <span class="caption">
-        <p align="center"><b>Fig. 2</b> Results of an audio stress test</p>
+        <p align="center"><b>Fig. 7</b> Results of an audio stress test</p>
   </span>
 </p>
 
@@ -28,7 +28,7 @@ In Fig. 3, we can see a table showing some of the already tested modules in BigB
 <p align="center">
   <img src="images/Unit_tests.png" width="90%" height="90%">
   <span class="caption">
-        <p align="center"><b>Fig. 3</b> Different components tested</p>
+        <p align="center"><b>Fig. 8</b> Different components tested</p>
   </span>
 </p>
 
