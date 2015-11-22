@@ -44,7 +44,7 @@ A demonstration of this kind of test is available in the following video.
 <p align="center">
  <a href="https://www.youtube.com/watch?v=Av8a0gB-Y3I"><img src="images/youtube_stress_testing.png"></a>
  <span class="caption">
-  <p align="center"><b>Fig. 1</b> Video of stress testing on Ubuntu</p>
+  <p align="center"><b>Fig. 6</b> Video of stress testing on Ubuntu</p>
  </span>
 </p>
 
