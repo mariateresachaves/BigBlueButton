@@ -84,7 +84,7 @@ Based on the research made on the github repository and subsequent folders, foru
 
  * Another important issue is that there are no **regression testing**, so there is no clue if other modules were affected by the modifications that were made  
 
- * Since there is no feedback from customers, the developers don't mind implementing the **acceptance tests**
+ * Since there is no feedback from customers (except from inquiries), the developers don't mind implementing the **acceptance tests**
 
 ##15.3. How to improve BigBlueButton testability
 
@@ -94,7 +94,7 @@ To improve BigBlueButton's testability we suggest:
 
  * **Regression Testing** - To ensure there is no affected modules, when a new feature is being developed there should be intermediate testing (e.g. when changing the chat messages format, there should be a test to verify if there's no problem selecting private chat users)  
 
- * **Acceptance Testing** - Once again there should be more consideration about the customers' perspective and therefore acceptance tests to ensure that the specified feature is working as expected  
+ * **Acceptance Testing** - Despite taking into consideration the customers opinion obtained from inquiries to develop new features, there are no acceptance tests which ensure that the specified feature is working as expected  
 
  * **Usability Testing** - To improve the user experience (chat messaging, video feed, presentation tools, etc.) there should be usability tests, while taking into consideration other users opinions and suggestions  
 
