@@ -43,7 +43,7 @@ Software testing is any activity aimed at evaluating an attribute or capability 
 <p align="center">
   <img src="images/grey_white_black.jpg" width="30%" height="30%">
   <span class="caption">
-        <p align="center"><b>Fig. 2</b> Black Box *vs* Grey Box *vs* White Box </p>
+        <p align="center"><b>Fig. 2</b> Black Box <i>vs</i> Grey Box <i>vs</i> White Box </p>
   </span>
 </p>
 
