@@ -99,3 +99,14 @@ To improve BigBlueButton's testability we suggest:
  * **Usability Testing** - To improve the user experience (chat messaging, video feed, presentation tools, etc.) there should be usability tests, while taking into consideration other users opinions and suggestions  
 
  * **Performance Testing** - To obtain better results concerning the system overload, file uploading, audio quality, etc. it would be reasonable to implement performance tests to identify potential memory and time consuming features
+
+
+<!-- FOOTER -->
+
+<p align=center>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Software_Testing.md#14-software-testing"><< Software Testing</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Index.md">Index</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Test_Statistics_Analysis.md#16-test-statistics-analysis"> Test Statistics Analysis >></a>
+</p>
