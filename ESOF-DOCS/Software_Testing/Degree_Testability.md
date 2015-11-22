@@ -87,3 +87,15 @@ Based on the research made on the github repository and subsequent folders, foru
  * Since there is no feedback from customers, the developers don't mind implementing the **acceptance tests**
 
 ##15.3. How to improve BigBlueButton testability
+
+To improve BigBlueButton's testability we suggest:
+
+ * **System Testing** - To ensure the platform works nicely in different environments and to improve the user's perspective and experience when using BBB  
+
+ * **Regression Testing** - To ensure there is no affected modules, when a new feature is being developed there should be intermediate testing (e.g. when changing the chat messages format, there should be a test to verify if there's no problem selecting private chat users)  
+
+ * **Acceptance Testing** - Once again there should be more consideration about the customers' perspective and therefore acceptance tests to ensure that the specified feature is working as expected  
+
+ * **Usability Testing** - To improve the user experience (chat messaging, video feed, presentation tools, etc.) there should be usability tests, while taking into consideration other users opinions and suggestions  
+
+ * **Performance Testing** - To obtain better results concerning the system overload, file uploading, audio quality, etc. it would be reasonable to implement performance tests to identify potential memory and time consuming features
