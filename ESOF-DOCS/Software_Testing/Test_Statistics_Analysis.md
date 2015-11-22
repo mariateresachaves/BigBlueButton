@@ -1,4 +1,6 @@
-#3. Test Statistics Analysis
+#16. Test Statistics Analysis
+
+##16.1. Testing Results
 
 BigBlueButton's testing phase is extensive, and one of the core development parts of the project. The developers of BigBlueButton focus their testing on 3 groups: **unit testing**, **integration testing** and **stress testing**.
 
@@ -31,3 +33,5 @@ In Fig. 3, we can see a table showing some of the already tested modules in BigB
 </p>
 
 Lastly, in the **integration tests** developers should have a complete test suite to verify stability and conformance to documentation. Unfortunately, we didn't find any results concerning integration tests, other than what is shown in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#1511-testing-the-gem">**Section 15.1.2.**</a>.
+
+##16.2. Testing Conclusions
