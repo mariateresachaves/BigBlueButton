@@ -32,6 +32,8 @@ In Fig. 3, we can see a table showing some of the already tested modules in BigB
   </span>
 </p>
 
-Lastly, in the **integration tests** developers should have a complete test suite to verify stability and conformance to documentation. Unfortunately, we didn't find any results concerning integration tests, other than what is shown in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#1511-testing-the-gem">**Section 15.1.2.**</a>.
+Lastly, in the **integration tests** developers should have a complete test suite to verify stability and conformance to documentation. Unfortunately, we didn't find any results concerning integration tests, other than what is shown in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#1511-testing-the-gem">**Section 15.1.1.**</a>.
 
 ##16.2. Testing Conclusions
+
+As it was stated in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Development_Process/Development%20Process.md#21-incremental-process">**Section 2.1. of the Development Process Report**</a>
