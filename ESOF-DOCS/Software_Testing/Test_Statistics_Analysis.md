@@ -37,3 +37,13 @@ Lastly, in the **integration tests** developers should have a complete test suit
 ##16.2. Testing Conclusions
 
 As it was stated in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Development_Process/Development%20Process.md#21-incremental-process">**Section 2.1. of the Development Process Report**</a>, the testing phase is the most extensive phase of the development process of BigBlueButton. We think the **stress tests** are one of the key factors for the success of this project, and they are easily done, since just one person can do some of them (BigBlueButton sees each tab of the browser as one independent user). Although stress tests are extensively done, we think that the testing in other areas is lacking. **Unit tests** exist but not in all modules, possibly leading to small bugs like the one reported <a href="https://github.com/bigbluebutton/bigbluebutton/issues/2878">**here**</a>, about chat messages. For example, the polling module has no unit tests whatsoever, although this is something that can still be done. Even though we've tried the application and found no bugs while using it, for an extensive search, unit tests should be done. There is also very little information about **integration tests** performed, and again, some modules do them, while others do not. We have also detected that while using the application on Internet Explorer, the audio is much worse in quality when compared with Google Chrome. This is something that should be verified on **system tests**, something the application lacks. There were also other reports that showcases this fault, like <a href="https://groups.google.com/forum/#!topic/bigbluebutton-dev/OGBWK-SX5Ao">**this**</a> bug report.
+
+<!-- FOOTER -->
+
+<p align=center>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#15-degree-of-testability"><< Degree of Testability</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Index.md">Index</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Bug_Report_Solving.md#17-bug-report-solving"> Bug Report Solving >></a>
+</p>
