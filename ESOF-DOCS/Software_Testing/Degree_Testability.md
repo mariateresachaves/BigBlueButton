@@ -35,13 +35,24 @@ The **Mobile Client** was initially structured using the **Model-View-Controller
 
 These tests are still being implemented and no conclusions can be done at this moment.
 
+###15.1.3. Testing the server
+
+To test the server, BigBlueButton permitted an unexpected number of simultaneous clients in a single session.  
+
+A demonstration of this kind of test is available in the following video.  
+
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=Av8a0gB-Y3I"><img src="images/youtube_stress_testing.png"></a>
+ <span class="caption">
+  <p align="center"><b>Fig. 1</b> Video of stress testing on Ubuntu</p>
+ </span>
+</p>
+
 <!-- How "testable" is the program
 
 The "core" component is where most of the code that communicate with a BigBlueButton server ended up. I don't think this part of the application should be unit tested for two main reasons. First, most of the code in the "core" is simple, and repeats the same pattern over and over again. Second, unit testing this part of the application may make it more "brittle". This is because any time the message format for communication between client and server changes (not an infrequent occurrence), the unit tests will also need to be redesigned or they will fail.
 
 How to improve the testability of software components
-
-
 
 Controllability: The degree to which it is possible to control the state of the component under test (CUT) as required for testing.
 
