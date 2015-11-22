@@ -1,8 +1,25 @@
 #LINKS:
-https://code.google.com/p/bigbluebutton/wiki/StressTesting    
-https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing    
+
 https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM    --> resultado test stressing
 http://users.ece.cmu.edu/~koopman/des_s99/sw_testing/#reference 
+
+Stress testing to test the server -> https://code.google.com/p/bigbluebutton/wiki/StressTesting
+
+Unit testing and integration testing to test the gem -> https://github.com/mconf/bigbluebutton-api-ruby/wiki/Testing
+
+Stress testing to test the audio -> https://groups.google.com/forum/#!topic/bigbluebutton-dev/PHzpgVqYAMM
+
+Testing requirements -> https://code.google.com/p/bigbluebutton/wiki/RecordPlaybackSpecification
+
+BBB documentation about tests -> http://docs.bigbluebutton.org/support/road-map.html
+
+Unit testing Mobile Client -> http://zenit.senecac.on.ca/wiki/index.php/BigBlueButton http://zenit.senecac.on.ca/wiki/index.php/BigBlueButton_Mobile_Client_Unit_Tests
+
+Stress testing script -> https://github.com/bigbluebutton/bigbluebutton/tree/master/labs
+
+Video about stress test the server -> https://www.youtube.com/watch?v=Av8a0gB-Y3I
+
+-> http://e-standards.flexiblelearning.net.au/research/funded_projects/emerging_technology_trials/2012/big_blue_button.php
 
 Ajuda para instalar BBB:
 https://www.youtube.com/watch?v=XTfHqnXingQ
