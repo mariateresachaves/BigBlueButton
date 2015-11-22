@@ -37,7 +37,7 @@ These tests are still being implemented and no conclusions can be done at this m
 
 ###15.1.3. Testing the server
 
-To test the server, BigBlueButton permitted an unexpected number of simultaneous clients in a single session.  
+To test the server, BigBlueButton permitted an unexpected number of simultaneous clients in a single session. They could not only test the number of simultaneous users, but also the number of simultaneous users with good quality audio and the number of simultaneous users with webcams.
 
 A demonstration of this kind of test is available in the following video.  
 
@@ -48,10 +48,25 @@ A demonstration of this kind of test is available in the following video.
  </span>
 </p>
 
-<!-- How "testable" is the program
+##15.2. How "testable" is BigBlueButton
 
-The "core" component is where most of the code that communicate with a BigBlueButton server ended up. I don't think this part of the application should be unit tested for two main reasons. First, most of the code in the "core" is simple, and repeats the same pattern over and over again. Second, unit testing this part of the application may make it more "brittle". This is because any time the message format for communication between client and server changes (not an infrequent occurrence), the unit tests will also need to be redesigned or they will fail.
+Based on the research made on the github repository and subsequent folders, forums and BBBs documentation we arrived to the following conclusions:
 
+ * BigBlueButton is testable on certain modules, however these tests are not so different from each other (i.e. they are mostly based on unit testing), thus not ensuring other situations which can cause malfunction  
+ 
+ * Some folders are empty or not even exist, thus concluding that **some tests are not yet implemented**  
+ 
+ * Although they use one **integration test** it is not enough, since there's no feedback about how the components will interact with each other when they are all together  
+ 
+ * Concerning the chat messages, if their format eventually changes the **unit tests** will have to be redesigned or else they will fail, so this module is not that testable as it should be  
+
+ * There are no **system tests**, which brings limitations concerning different environments  
+
+ * Another important issue is that there are no **regression testing**, so there is no clue if other modules were affected by the modifications that were made  
+
+ * Since there is no feedback from customers, the developers don't mind implementing the **acceptance tests**
+
+<!-- 
 How to improve the testability of software components
 
 Controllability: The degree to which it is possible to control the state of the component under test (CUT) as required for testing.
