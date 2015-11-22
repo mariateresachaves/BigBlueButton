@@ -36,4 +36,4 @@ Lastly, in the **integration tests** developers should have a complete test suit
 
 ##16.2. Testing Conclusions
 
-As it was stated in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Development_Process/Development%20Process.md#21-incremental-process">**Section 2.1. of the Development Process Report**</a>
+As it was stated in <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Development_Process/Development%20Process.md#21-incremental-process">**Section 2.1. of the Development Process Report**</a>, the testing phase is the most extensive phase of the development process of BigBlueButton. We think the **stress tests** are one of the key factors for the success of this project, and that they are easily done, since just one person can do it (BigBlueButton sees each tab of the browser as one independent user). Although stress tests are extensively done, we think that the testing in other areas is lacking. Unit tests exist but not in all modules, possibly leading to small bugs like the one reported <a href="https://github.com/bigbluebutton/bigbluebutton/issues/2878">**here**</a>, about chat messages.
