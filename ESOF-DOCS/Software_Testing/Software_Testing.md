@@ -3,6 +3,13 @@
 ##14.1 Overview
 Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results [*Hetzel, William C., The Complete Guide to Software Testing*]. Although crucial to software quality and widely deployed by programmers and testers, software testing still remains an art, due to limited understanding of the principles of software. The difficulty in software testing stems from the complexity of software: we can not completely test a program with moderate complexity. Testing is more than just debugging. The purpose of testing can be quality assurance, verification and validation, or reliability estimation. Testing can be used as a generic metric as well. Correctness testing and reliability testing are two major areas of testing. Software testing is a trade-off between budget, time and quality.
 
+<p align="center">
+  <img src="images/software-quality-factors.jpg" width="70%" height="70%">
+  <span class="caption">
+        <p align="center"><b>Fig. 1</b> Software Quality Factors </p>
+  </span>
+</p>
+
 ##14.2 Testing methods
 
 **Black-Box Testing**
@@ -30,8 +37,16 @@ Software testing is any activity aimed at evaluating an attribute or capability 
 -	Usually done by testers and developers
 -	The tester can design test data accordingly
 -	Exhaustive and time-consuming
-- Suited for algorithm testing
+- 	Suited for algorithm testing
 -	Data domains and internal boundaries can be better tested
+
+<p align="center">
+  <img src="images/grey_white_black.jpg" width="30%" height="30%">
+  <span class="caption">
+        <p align="center"><b>Fig. 2</b> Black Box *vs* Grey Box *vs* White Box </p>
+  </span>
+</p>
+
 
 ##14.3 Types of Testing
 There are many testing methods and testing techniques, serving multiple purposes in different life cycle phases. Classified by **purpose**, software testing can be divided into:
@@ -54,6 +69,14 @@ By **scope**, software testing can be categorized as follows:
 * component testing;
 * integration testing;
 * system testing.
+
+
+<p align="center">
+  <img src="images/Types-of-Software-Testing.png" width="80%" height="80%">
+  <span class="caption">
+        <p align="center"><b>Fig. 3</b> Types of Testing </p>
+  </span>
+</p>
 
 ###14.3.1 The Most Used Types of Testing
 
@@ -111,9 +134,32 @@ The terms Verification and Validation are commonly used in software engineering 
 <p align="center">
   <img src="images/VandVtoolbox.jpg" width="50%" height="50%">
   <span class="caption">
-        <p align="center"><b>Fig. 1</b> Software Testing</p>
+        <p align="center"><b>Fig. 4</b> Software Testing</p>
   </span>
 </p>
+
+##14.5 The Importance of Software Testing
+
+Testing is one of the important aspects in Software Development because of the following reasons:
+
+1. Testing helps to prove that all the software requirements are always implemented correctly or not;
+
+2. Testing helps in identifying defects and ensuring that testing are addressed before software deployment. If any defect is discover and fixed after deployment, then the correction cost will be much huge than the cost of fixing it at earlier stages of development;
+
+3. Testing demonstrates that software always appears to be working correspond to specification, and the sociology and performance requirements always appear to have been met;
+
+4. Whenever several systems are developed in different components, different levels of testing help to verify proper integration or interaction of all components to rest of the system;
+
+5. Testing always improves the quality of the product and project.
+
+
+<p align="center">
+  <img src="images/software-testing.jpg" width="50%" height="50%">
+  <span class="caption">
+        <p align="center"><b>Fig. 5</b> Software testing leads to the success of the project. </p>
+  </span>
+</p>
+
 
 
 <!-- FOOTER -->
@@ -123,5 +169,5 @@ The terms Verification and Validation are commonly used in software engineering 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Index.md">Index</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md">FALTA POR >></a>
+  <a href="https://github.com/mariateresachaves/bigbluebutton/blob/7b72da91d4d65604e94134ab5c7dd703710529be/ESOF-DOCS/Software_Testing/Degree_Testability.md#15-degree-of-testability"> Degree of Testability >></a>
 </p>
