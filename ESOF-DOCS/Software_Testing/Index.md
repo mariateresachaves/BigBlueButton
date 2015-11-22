@@ -1,7 +1,7 @@
 ##Software Testability
 
 ###Table of Contents
-[14. Software Testability](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Testability/Software_Testability.md#1-software-testability)  
+[14. Software Testability](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Software_Testing.md#14-software-testing)  
 &nbsp;&nbsp;&nbsp;&nbsp;[14.1. Overview](https://github.com/mariateresachaves/bigbluebutton/blob/7b72da91d4d65604e94134ab5c7dd703710529be/ESOF-DOCS/Software_Testing/Software_Testing.md#141-overview)  
 &nbsp;&nbsp;&nbsp;&nbsp;[14.2. Testing methods](https://github.com/mariateresachaves/bigbluebutton/blob/7b72da91d4d65604e94134ab5c7dd703710529be/ESOF-DOCS/Software_Testing/Software_Testing.md#142-testing-methods)  
 &nbsp;&nbsp;&nbsp;&nbsp;[14.3. Types of Testing](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Software_Testing.md#143-types-of-testing)  
@@ -14,5 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[15.1.3. Testing the server](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#1513-testing-the-server)    
 &nbsp;&nbsp;&nbsp;&nbsp;[15.2. How "testable" is BigBlueButton](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#152-how-testable-is-bigbluebutton)  
 &nbsp;&nbsp;&nbsp;&nbsp;[15.3. How to improve BigBlueButton testability](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Degree_Testability.md#153-how-to-improve-bigbluebutton-testability)  
-[3. Test Statistics Analysis](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Test_Statistics_Analysis.md#3-test-statistics-analysis)  
-[4. Bug Report Solving](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Bug_Report_Solving.md#4-bug-report-solving)  
+[16. Test Statistics Analysis](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Test_Statistics_Analysis.md#16-test-statistics-analysis)  
+&nbsp;&nbsp;&nbsp;&nbsp;[16.1. Testing Results](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Test_Statistics_Analysis.md#161-testing-results)  
+&nbsp;&nbsp;&nbsp;&nbsp;[16.2. Testing Conclusions](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Test_Statistics_Analysis.md#162-testing-conclusions)  
+[17. Bug Report Solving](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Testing/Bug_Report_Solving.md#17-bug-report-solving)  
