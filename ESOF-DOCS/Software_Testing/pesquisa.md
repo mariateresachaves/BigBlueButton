@@ -52,6 +52,9 @@ We are continuously trying to incorporate more automated testing into the BigBlu
 
 http://e-standards.flexiblelearning.net.au/research/funded_projects/emerging_technology_trials/2012/big_blue_button.php
 
+
+COMPLEXIDADE DOS TESTES: REFERIR McCabe
+
 ------------------------------------------------------------
 
 #Testing methods
