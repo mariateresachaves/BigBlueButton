@@ -23,7 +23,7 @@ Other focus in the testing phase is the **unit testing**. Contrary to the spirit
 * Each special case deserves a unit test. Generally, each way a function can possibly be ended, adds one more unit test to that function;
 * Each event that gets dispatched adds one more unit test.
 
-In Fig. 3, we can see a table showing some of the already tested modules in BigBlueButton.
+In Fig. 8, we can see a table showing some of the already tested modules in BigBlueButton.
 
 <p align="center">
   <img src="images/Unit_tests.png" width="90%" height="90%">
