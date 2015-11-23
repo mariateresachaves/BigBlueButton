@@ -7,3 +7,5 @@ MODULOS
 https://github.com/mariateresachaves/bigbluebutton/tree/master/bigbluebutton-client/src/org/bigbluebutton/modules
 
 https://groups.google.com/forum/#!topic/bigbluebutton-users/JfhjQMGdV1A
+
+https://github.com/mariateresachaves/bigbluebutton/blob/master/bigbluebutton-html5/app/client/lib/bbb_api_bridge.coffee
