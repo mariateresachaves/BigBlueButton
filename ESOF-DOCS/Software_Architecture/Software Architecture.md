@@ -88,6 +88,15 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
 
 ##1.3 Architectural Patterns
 
+###1.3.1 Mode-view-controller
+
+###1.3.2 Pipes and filters
+
+###1.3.3 Layered architecture 
+
+###1.3.4 Repositories
+
+###1.3.5 Client-server
 
 <!-- FOOTER -->
 
