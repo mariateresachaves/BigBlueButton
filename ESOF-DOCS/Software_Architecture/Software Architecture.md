@@ -151,7 +151,7 @@ The client-server model consists of:
 <p align="center">
     <img src="images/img1_server_client.png" width="40%" height="40%">
     <span class="caption">
-          <p align="center"><b>Fig. 12</b> Repository pattern</p>
+          <p align="center"><b>Fig. 13</b> Client-server model</p>
     </span>
 </p>
 
