@@ -94,13 +94,22 @@ The Model-View-Controller (MVC) pattern main purpose is to separate the modeling
 
 
 <p align="center">
-    <img src="images/mvc.png" width="50%" height="50%">
+    <img src="images/mvc.png" width="70%" height="70%">
     <span class="caption">
           <p align="center"><b>Fig. 9</b> Model-View-Controller pattern</p>
     </span>
 </p>
 
 ###1.3.2 Pipes and filters
+
+The Pipes and Filters pattern consists of a chain of processes or other data processing entities, organized in such a way that the output of one element of this chain will be the input of the next element. This pattern is best known for it's improved modifiability. A Pipes and Filters solution can easily replace a filter with another filter with different resource requirements. However, this pattern can be of increased complexity, requiring expert domain knowledge. Lowered performance due to communication overhead is another of the problems of this pattern.
+
+<p align="center">
+    <img src="images/pipes_and_filters.png" width="70%" height="70%">
+    <span class="caption">
+          <p align="center"><b>Fig. 10</b> Pipes and Filters pattern</p>
+    </span>
+</p>
 
 ###1.3.3 Layered architecture 
 
