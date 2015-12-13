@@ -128,7 +128,7 @@ A Repository pattern is used when maximizing the amount of code that can be test
 
 
 <p align="center">
-    <img src="images/repositoryconcept.jpg" width="70%" height="70%">
+    <img src="images/repositoryconcept.jpg" width="30%" height="30%">
     <span class="caption">
           <p align="center"><b>Fig. 12</b> Repository pattern</p>
     </span>
