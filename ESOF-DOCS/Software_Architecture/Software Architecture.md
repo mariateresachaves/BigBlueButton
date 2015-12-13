@@ -113,6 +113,15 @@ The Pipes and Filters pattern consists of a chain of processes or other data pro
 
 ###1.3.3 Layered architecture 
 
+A Layered architecture allows increased flexibility, maintainability, and scalability. Each layer provides services to the layer above it. They can be easily altered to get the wanted result. In contrast, an alteration to a low-level layer tend to have a major impact in the above ones, specially if a relaxed layered approach is used. It may also be difficult to strictly seperate each service into a layer, in cases where an high-level layer needs direct access to a low-level one.
+
+<p align="center">
+    <img src="images/pipes_and_filters.png" width="70%" height="70%">
+    <span class="caption">
+          <p align="center"><b>Fig. 10</b> Pipes and Filters pattern</p>
+    </span>
+</p>
+
 ###1.3.4 Repositories
 
 ###1.3.5 Client-server
