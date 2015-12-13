@@ -116,7 +116,7 @@ The Pipes and Filters pattern consists of a chain of processes or other data pro
 A Layered architecture allows increased flexibility, maintainability, and scalability. Each layer provides services to the layer above it. They can be easily altered to get the wanted result. In contrast, an alteration to a low-level layer tend to have a major impact in the above ones, specially if a relaxed layered approach is used. It may also be difficult to strictly seperate each service into a layer, in cases where an high-level layer needs direct access to a low-level one.
 
 <p align="center">
-    <img src="images/Layered-Architecture.png" width="70%" height="70%">
+    <img src="images/Layered-Architecture.png" width="40%" height="40%">
     <span class="caption">
           <p align="center"><b>Fig. 11</b> Layered Architecture</p>
     </span>
