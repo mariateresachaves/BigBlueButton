@@ -88,7 +88,16 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
 
 ##1.3 Architectural Patterns
 
-###1.3.1 Mode-view-controller
+###1.3.1 Model-view-controller
+
+The Model-View-Controller (MVC) pattern main purpose is to separate the modeling of the domain, the presentation, and the actions based on user input into three separate logical parts, in which all interact with each other.
+
+<p align="center">
+    <img src="images/mvc.png" width="50%" height="50%">
+    <span class="caption">
+          <p align="center"><b>Fig. 9</b> Model-View-Controller pattern</p>
+    </span>
+  </p>
 
 ###1.3.2 Pipes and filters
 
