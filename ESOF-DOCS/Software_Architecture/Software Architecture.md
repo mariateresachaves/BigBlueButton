@@ -126,6 +126,28 @@ A Layered architecture allows increased flexibility, maintainability, and scalab
 
 ###1.3.5 Client-server
 
+
+The client-server model consists of:
+
+* **Server** - a single machine/application that provides services to multiple clients. 
+  * IIS based Web server;
+  * WCF based service;
+  * A service in the cloud.
+* **Clients** - software applications that provide UI (front-end) to access the services at the server.
+  * WPF;
+  * HTML5;
+  * Silverlight;
+  * ASP.NET.
+
+This model has some advantages like:
+* The computational work can be distributed among different machines;
+* The clients can access the server's functionality from a distance;
+* The client and server can be designed separately, so they can both be simpler than a program that does everything;
+* All the data can be kept centrally at the server, thus making it easier to assure its reliability;
+* Conversely, distributing data among many different geographically-distributed clients or servers can mean that if a disaster occurs in one place, the loss of data is minimized;
+* The server can be accessed simultaneously by many clients;
+* Competing clients can be written to communicate with the same server, and vice-versa.
+
 <!-- FOOTER -->
 
 <p align=center>
