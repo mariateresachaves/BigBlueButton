@@ -133,7 +133,6 @@ A Repository pattern is used when maximizing the amount of code that can be test
           <p align="center"><b>Fig. 12</b> Repository pattern</p>
     </span>
 </p>
-
 ###1.3.5 Client-server
 
 
@@ -148,6 +147,13 @@ The client-server model consists of:
   * HTML5;
   * Silverlight;
   * ASP.NET.
+  
+<p align="center">
+    <img src="images/img1_server_client.png" width="40%" height="40%">
+    <span class="caption">
+          <p align="center"><b>Fig. 12</b> Repository pattern</p>
+    </span>
+</p>
 
 This model has some advantages like:
 * The computational work can be distributed among different machines;
