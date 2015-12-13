@@ -86,6 +86,9 @@ As shown in the previous image (*Fig.3*), this model is composed by Logical View
     </span>
   </p>
 
+##1.3 Architectural Patterns
+
+
 <!-- FOOTER -->
 
 <p align=center>
