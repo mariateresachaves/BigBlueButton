@@ -124,6 +124,16 @@ A Layered architecture allows increased flexibility, maintainability, and scalab
 
 ###1.3.4 Repositories
 
+A Repository pattern is used when maximizing the amount of code that can be tested with automation is important, and also  to isolate the data layer to support unit testing. It becomes easy to access the data source from sparce locations and to apply centrally managed, consistent access rules and logic. It is a risk though, because a single error in the central repository may lead to a major project failure.
+
+
+<p align="center">
+    <img src="images/repositoryconcept.jpg" width="70%" height="70%">
+    <span class="caption">
+          <p align="center"><b>Fig. 12</b> Repository pattern</p>
+    </span>
+</p>
+
 ###1.3.5 Client-server
 
 
