@@ -16,6 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3. VoIP and Asterik](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#23-voip-and-asterik)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4. red5](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#24-red5)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5. bbb-apps](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#25-bbb-apps)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.6. BigBlueButton's architecture pattern](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/BigBlueButton.md#26-bigbluebuttons-architecture-pattern)   
 [3. Logical View](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#3-logical_view)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1. Logical View Introduction](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#31-logical-view-introduction)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.2. UML Package Diagram](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Logical%20View.md#32-uml-package-diagram)  
