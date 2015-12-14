@@ -49,7 +49,7 @@ There are 4 applications provided by BBB, with each of the applications being mo
 
 The BBB application uses these applications upon the client request. Threre is also an archive that can record any events inside of the applications, allowing to playback anything that is recorded in the archive.
 
-
+##2.6 BigBlueButton's architecture pattern
 
 <p align=center>
   <a href="https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Software_Architecture/Software%20Architecture.md#1-software-architecture"><< Software Architecture </a>
