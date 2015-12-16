@@ -24,7 +24,7 @@ It looks forward to help students and teachers to collaborate through a web plat
 &nbsp;&nbsp;&nbsp;&nbsp;[3.2. Positive Aspects](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Critical%20Analysis.md#32-positive-aspects)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.3. Enhancements](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Initial-Report/Critical%20Analysis.md#33-enhancements)
     
-####Requiriments
+####Requirements
 [4. Requirements Engineering](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#1-requirements-engineering)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4.1. Description](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#11-description)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2. Techniques](https://github.com/mariateresachaves/bigbluebutton/blob/master/ESOF-DOCS/Requirements/Requirements%20Engineering.md#12-techniques)  
