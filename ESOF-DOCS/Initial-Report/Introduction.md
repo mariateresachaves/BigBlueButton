@@ -86,4 +86,6 @@ After solving this issue, the community suggested that BigBlueButton should have
 
 The developers then released the 0.8 version and the record and playback was now available to the community, increasing the platform's main accesses and substantial improvements. The later version focused on upgrade these last features (record and playback), simplifying the interface and adding accessibility for students with disabilities.
 
-![Vista geral dos 3 mundos](images/time4.png)
+![Timeline between beta-3 and RC1 versions](images/time4.png)
+		
+The project's last release is now the 0.9 version - the twelfth release - and is currently on the testing phase for the 1.0 release.
